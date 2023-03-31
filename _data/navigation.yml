@@ -1,10 +1,8 @@
 main:
   - title: Asset Store
-    url: https://u3d.as/2Uuo?aid=1101lHzQ
+    url: https://u3d.as/334o?aid=1101lHzQ
   - title: Discord
-    url: https://discord.gg/kfumMFahBj
-  - title: Report an issue
-    url: https://github.com/Dustyroom/chroma-doc/issues/new/choose
+    url: https://discord.gg/GBAeuWC9qS
   - title: FAQs
     url: /faqs/
   - title: Contact
@@ -17,26 +15,8 @@ docs:
         url: /
       - title: Installation
         url: /installation/
-      - title: Demo Scenes
-        url: /demo-scenes/
-      - title: Example Shaders
-        url: /example-shaders/
-  - title: Shader UI
-    children:
-      - title: Set up
-        url: /shader-ui-setup/
-      - title: Attributes
-        url: /attributes/
-  - title: Features
-    children:
-      - title: Gradient
-        url: /gradient/
-      - title: Curve
-        url: /curve/
-      - title: Shader Graph
-        url: /shader-graph-nodes/
-      - title: Code Shaders
-        url: /code-shader-macros/
+      - title: Examples
+        url: /examples/
   - title: Help
     children:
       - title: Contact
