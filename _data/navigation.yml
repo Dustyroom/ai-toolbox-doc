@@ -19,9 +19,7 @@ docs:
         url: /examples/
   - title: Help
     children:
+      - title: FAQ
+        url: /faqs/
       - title: Contact
         url: /contact-details/
-      - title: FAQs
-        url: /faqs/
-      - title: Limitations
-        url: /limitations/
