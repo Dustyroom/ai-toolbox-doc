@@ -1,4 +1,4 @@
 ---
 title: "Coming soon"
-permalink: /
+permalink: /hidden/
 ---
