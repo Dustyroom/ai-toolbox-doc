@@ -15,6 +15,8 @@ docs:
         url: /
       - title: Installation
         url: /installation/
+      - title: How to Use
+        url: /how-to-use/
       - title: Examples
         url: /examples/
   - title: Help
