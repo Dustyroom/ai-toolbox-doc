@@ -9,16 +9,18 @@ main:
     url: /contact-details/
 
 docs:
-  - title: Getting Started
+  - title: ChatGPT Script Generator
     children:
       - title: Overview
         url: /
       - title: Installation
         url: /installation/
-      - title: How to Use
-        url: /how-to-use/
+      - title: Getting Started
+        url: /getting-started/
       - title: Examples
         url: /examples/
+      - title: How To Write Prompts  
+        url: /how-to-write-prompts/
   - title: Help
     children:
       - title: FAQ
