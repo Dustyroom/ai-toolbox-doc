@@ -9,7 +9,7 @@ main:
     url: /contact-details/
 
 docs:
-  - title: ChatGPT Script Generator
+  - title: AI Script Generator
     children:
       - title: Overview
         url: /
