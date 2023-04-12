@@ -9,7 +9,7 @@ main:
     url: /contact-details/
 
 docs:
-  - title: AI Script Generator
+  - title: GPT Helper
     children:
       - title: Overview
         url: /
@@ -19,7 +19,7 @@ docs:
         url: /getting-started/
       - title: Examples
         url: /examples/
-      - title: How To Write Prompts  
+      - title: How To Write Prompts
         url: /how-to-write-prompts/
   - title: Help
     children:
