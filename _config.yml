@@ -3,7 +3,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "AI Toolbox: GPT Helper"
+title: "AI Toolbox: ChatGPT Helper"
 title_short: "AI Toolbox"
 og_image: /assets/images/banners/sg-banner-1.png
 masthead_title: " " # Disable title on masthead because the graphic logo has the title.
