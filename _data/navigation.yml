@@ -22,7 +22,9 @@ docs:
       - title: How To Write Prompts
         url: /how-to-write-prompts/
   - title: Runtime Usage
-    url: /runtime/
+    children:
+      - title: Overview
+        url: /runtime/
   - title: Help
     children:
       - title: FAQ
