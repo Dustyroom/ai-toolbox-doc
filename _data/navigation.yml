@@ -3,13 +3,13 @@ main:
     url: https://u3d.as/334o?aid=1101lHzQ
   - title: Discord
     url: https://discord.gg/xqfh46kKfw
-  - title: FAQs
-    url: /faqs/
+  - title: FAQ
+    url: /faq/
   - title: Contact
     url: /contact-details/
 
 docs:
-  - title: GPT Helper
+  - title: Editor Usage
     children:
       - title: Overview
         url: /
@@ -21,10 +21,12 @@ docs:
         url: /examples/
       - title: How To Write Prompts
         url: /how-to-write-prompts/
+  - title: Runtime Usage
+    url: /runtime/
   - title: Help
     children:
       - title: FAQ
-        url: /faqs/
+        url: /faq/
       - title: Troubleshooting
         url: /troubleshooting/
       - title: Contact
