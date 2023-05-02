@@ -28,7 +28,7 @@ html {
 
   .image-fancy {
     border-style:solid;
-    border-color:darkgray;
+    border-color:$primary-color;
     border-width:thick;
     border-radius:1vh;
     max-width: 100%;
@@ -39,8 +39,6 @@ html {
   }
 
   .image-rounded {
-    border-style: solid;
-    border-color: $primary-color;
     border-radius: 1vh;
     max-width: 100%;
     height: auto;
