@@ -13,6 +13,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 twitter_username: _dstrm
 minimal_mistakes_skin: air
 search: true
+toc_leves: 1..3
 
 # analytics:
 #   provider: "google-gtag"
