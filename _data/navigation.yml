@@ -23,7 +23,7 @@ docs:
         url: /how-to-write-prompts/
   - title: Runtime Usage
     children:
-      - title: Overview
+      - title: ChatGPT
         url: /runtime/
   - title: Help
     children:
