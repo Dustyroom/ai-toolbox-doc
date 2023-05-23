@@ -17,6 +17,8 @@ docs:
         url: /installation/
       - title: Getting Started
         url: /getting-started/
+      - title: Google Bard Setup
+        url: /bard-set-up/
       - title: Examples
         url: /examples/
       - title: How To Write Prompts
