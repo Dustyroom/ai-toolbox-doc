@@ -15,10 +15,10 @@ docs:
         url: /
       - title: Installation
         url: /installation/
-      - title: Getting Started
-        url: /getting-started/
       - title: Google Bard Setup
         url: /bard-set-up/
+      - title: Getting Started
+        url: /getting-started/
       - title: Examples
         url: /examples/
       - title: How To Write Prompts
