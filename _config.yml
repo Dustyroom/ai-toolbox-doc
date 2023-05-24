@@ -14,10 +14,10 @@ twitter_username: _dstrm
 minimal_mistakes_skin: air
 search: true
 
-# analytics:
-#   provider: "google-gtag"
-#   google:
-#     tracking_id: "G-YEY2P173TF"
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-FX4K2YZZE0"
 
 # Build settings
 markdown: kramdown
