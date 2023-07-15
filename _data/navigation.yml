@@ -31,7 +31,5 @@ docs:
     children:
       - title: FAQ
         url: /faq/
-      - title: Troubleshooting
-        url: /troubleshooting/
       - title: Contact
         url: /contact-details/
