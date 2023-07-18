@@ -2,8 +2,6 @@
 # title: "Splash Page"
 layout: splash
 permalink: /splash-page/
-title: none
-
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
