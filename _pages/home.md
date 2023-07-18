@@ -5,7 +5,7 @@ permalink: /splash-page/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/banners/landing-banner-1.mp4
+  overlay_image: /assets/images/banners/test-banner.png
 #  actions:
 #    - label: "Download"
 #      url: "https://github.com/mmistakes/minimal-mistakes/"
