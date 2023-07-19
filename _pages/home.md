@@ -52,13 +52,11 @@ feature_testimonials:
     alt: "quote 1"
     title: "Quote 1"
     excerpt: User 1"
-
   - image_path: /assets/images/landing/landing_quotation.png
     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "quote 2"
     title: "Quote 2"
     excerpt: "User 2"
-
   - image_path: /assets/images/landing/landing_quotation.png
     alt: "quote 3"
     title: "Quote 3"
@@ -99,10 +97,12 @@ feature_row5:
 
 {% include feature_row id="feature_row2" type="left" %}
 
+{% include feature_row id="feature_testimonials" type="center" %}
+
 {% include feature_row id="feature_row3" type="right" %}
 
 {% include feature_row id="feature_row4" type="center" %}
 
 {% include feature_row id="feature_row5" type="center" %}
 
-{% include feature_row id="feature_testimonials" type="center" %}
+
