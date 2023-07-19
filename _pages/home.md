@@ -6,13 +6,14 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/banners/test-banner.png
-#  actions:
-#    - label: "Download"
-#      url: "https://github.com/mmistakes/minimal-mistakes/"
+  actions:
+    - label: "Buy"
+      url: "https://u3d.as/334o?aid=1101lHzQ"
 #  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-#excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
+excerpt: "ChatGPT, Dall•E and Google Bard inside your Unity project."
 intro:
-  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
+  - excerpt: 'Use the power of AI both in the Unity Editor and in your shipped games. It allows you to generate C# scripts from text descriptions, and generate images from text descriptions, including seamlessly tiling ones, right in your project.'
+# Centered with `type="center"`
 feature_row:
   - image_path: /assets/images/landing/foo-image-1.png
     alt: "placeholder image 1"
