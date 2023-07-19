@@ -25,7 +25,7 @@ feature_row:
   - image_path: /assets/images/landing/foo-image-2.png
     # image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "placeholder image 2"
-    title: "Edit new and existing scripts with AI"
+    title: "Edit any script with AI"
     excerpt: "Edit newly generated or any old scripts with ChatGPT."
     url: "/getting-started/#editing-the-script-with-chatgpt-prompt-window"
     btn_label: "Read More"
@@ -62,21 +62,21 @@ feature_testimonials:
     excerpt: — Asset Store User
 
 
-feature_row3:
+feature_bard:
   - image_path: /assets/images/landing/foo-image-5.png
-    alt: "placeholder image 2"
-    title: "Placeholder Image Right Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
+    alt: "Google Bard integration"
+    title: "Unity Bard in Unity"
+    excerpt: 'Google Bard intgration expands the palette of the AI tools available in your Unity project.'
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
 
-feature_row4:
+feature_runtime:
   - image_path: /assets/images/landing/foo-image-6.png
-    alt: "placeholder image 2"
-    title: "Placeholder Image Center Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
-    url: "#test-link"
+    alt: "AI in Runtime"
+    title: "Embed AI into the shipped games, securely."
+    excerpt: 'With AI Toolbox you can securely embed and control AI into the shipped games.'
+    url: "/runtime/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 
@@ -98,9 +98,9 @@ feature_row5:
 
 {% include feature_row id="feature_testimonials" %}
 
-{% include feature_row id="feature_row3" type="right" %}
+{% include feature_row id="feature_bard" type="right" %}
 
-{% include feature_row id="feature_row4" type="center" %}
+{% include feature_row id="feature_runtime" type="center" %}
 
 {% include feature_row id="feature_row5" type="center" %}
 
