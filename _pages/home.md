@@ -30,7 +30,7 @@ feature_row:
     url: "/getting-started/#editing-the-script-with-chatgpt-prompt-window"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/landing/foo-image-1.png
+  - image_path: /assets/images/landing/foo-image-3.png
     title: "Generate images from text"
     excerpt: "Generate tileable images using DALL•E."
     url: "/getting-started/#generating-images-with-dalle"
@@ -38,7 +38,7 @@ feature_row:
     btn_class: "btn--primary"
 
 feature_row2:
-  - image_path: /assets/images/landing/foo-image-2.png
+  - image_path: /assets/images/landing/foo-image-4.png
     alt: "placeholder image 2"
     title: "Freeform chat with AI"
     # excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
@@ -48,7 +48,7 @@ feature_row2:
     btn_class: "btn--primary"
 
 feature_row3:
-  - image_path: /assets/images/landing/foo-image-1.png
+  - image_path: /assets/images/landing/foo-image-5.png
     alt: "placeholder image 2"
     title: "Placeholder Image Right Aligned"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
@@ -57,7 +57,7 @@ feature_row3:
     btn_class: "btn--primary"
 
 feature_row4:
-  - image_path: /assets/images/landing/foo-image-2.png
+  - image_path: /assets/images/landing/foo-image-6.png
     alt: "placeholder image 2"
     title: "Placeholder Image Center Aligned"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
@@ -66,16 +66,16 @@ feature_row4:
     btn_class: "btn--primary"
 
 feature_row2:
-  - image_path: /assets/images/landing/foo-image-1.png
+  - image_path: /assets/images/landing/foo-image-7.png
     alt: "placeholder image 1"
     title: "Placeholder Image Center Aligned"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-    
+
 feature_row5:
-  - image_path: /assets/images/landing/foo-image-1.png
+  - image_path: /assets/images/landing/foo-image-8.png
     alt: "placeholder image 1"
     title: "Placeholder Image Center Aligned"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
