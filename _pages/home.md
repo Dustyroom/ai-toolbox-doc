@@ -80,7 +80,8 @@ feature_bard:
     btn_class: "btn--primary"
 
 feature_row5:
-  -  title: "What you can do with AI Toolbox"
+  - image_path: /assets/images/landing/foo-image-7.png
+    title: "What you can do with AI Toolbox"
     excerpt: 'These are the things you can do with AI Toolbox.'
     url: "#test-link"
     btn_label: "Read More"
