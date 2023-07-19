@@ -96,7 +96,7 @@ feature_row5:
 
 {% include feature_row id="feature_freeform_chat" type="left" %}
 
-{% include feature_row id="feature_testimonials"}
+{% include feature_row id="feature_testimonials" %}
 
 {% include feature_row id="feature_row3" type="right" %}
 
