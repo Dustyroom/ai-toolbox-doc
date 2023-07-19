@@ -36,6 +36,7 @@ feature_row:
     url: "/getting-started/#generating-images-with-dalle"
     btn_label: "Read More"
     btn_class: "btn--primary"
+
 feature_row2:
   - image_path: /assets/images/landing/foo-image-2.png
     alt: "placeholder image 2"
@@ -45,6 +46,7 @@ feature_row2:
     url: "/getting-started/#chat-with-ai"
     btn_label: "Read More"
     btn_class: "btn--primary"
+
 feature_row3:
   - image_path: /assets/images/landing/foo-image-1.png
     alt: "placeholder image 2"
@@ -53,6 +55,7 @@ feature_row3:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
+
 feature_row4:
   - image_path: /assets/images/landing/foo-image-2.png
     alt: "placeholder image 2"
@@ -70,6 +73,7 @@ feature_row2:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
+    
 feature_row5:
   - image_path: /assets/images/landing/foo-image-1.png
     alt: "placeholder image 1"
