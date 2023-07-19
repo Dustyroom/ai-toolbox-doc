@@ -95,9 +95,9 @@ feature_row5:
 
 {% include feature_row id="feature_testimonials" %}
 
-{% include feature_row id="feature_bard" type="right" %}
-
 {% include feature_row id="feature_runtime" type="center" %}
+
+{% include feature_row id="feature_bard" type="right" %}
 
 {% include feature_row id="feature_row5" type="center" %}
 
