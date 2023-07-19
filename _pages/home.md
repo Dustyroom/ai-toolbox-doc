@@ -10,7 +10,7 @@ header:
     - label: "Buy"
       url: "https://u3d.as/334o?aid=1101lHzQ"
 #  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-excerpt: "ChatGPT, Dall•E and Google Bard inside your Unity project."
+excerpt: "ChatGPT, DALL•E and Google Bard inside your Unity project."
 intro:
   - excerpt: 'Use the power of AI both in the Unity Editor and in your shipped games. It allows you to generate C# scripts from text descriptions, and generate images from text descriptions, including seamlessly tiling ones, right in your project.'
 # Centered with `type="center"`
@@ -19,23 +19,30 @@ feature_row:
     alt: "placeholder image 1"
     title: "Generate scripts from text"
     excerpt: "Write a prompt, press 'Generate' and have a script."
+    url: "/getting-started/#generating-a-script-with-chatgpt-prompt-window"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
   - image_path: /assets/images/landing/foo-image-2.png
-  # image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
+    # image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "placeholder image 2"
     title: "Edit new and existing scripts with AI"
     excerpt: "Edit newly generated or any old scripts with ChatGPT."
-    url: "/getting-started/"
+    url: "/getting-started/#editing-the-script-with-chatgpt-prompt-window"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/landing/foo-image-1.png
     title: "Generate images from text"
     excerpt: "Generate tileable images using DALL•E."
+    url: "/getting-started/#generating-images-with-dalle"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 feature_row2:
   - image_path: /assets/images/landing/foo-image-2.png
     alt: "placeholder image 2"
-    title: "Placeholder Image Left Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
-    url: "#test-link"
+    title: "Freeform chat with AI"
+    # excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
+    excerpt: 'With AI Toolbox you can chat with AI in the Unity Editor about anything — ask it to explain code, where to find things in Unity, learn a delicious taco recipe.'
+    url: "/getting-started/#chat-with-ai"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row3:
