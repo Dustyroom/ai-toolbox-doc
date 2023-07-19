@@ -48,18 +48,22 @@ feature_row2:
     btn_class: "btn--primary"
 
 feature_testimonials:
-  #- image_path: /assets/images/landing/foo-image-1.png
-  #  alt: "placeholder image 1"
-    title: "Testimonial 1"
-    excerpt: "User 1"
-    #- image_path: /assets/images/landing/foo-image-2.png
-  #  image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
-  #  alt: "placeholder image 2"
-    title: "Testimonial 2"
+  - image_path: /assets/images/landing/landing_quotation.png
+    alt: "quote 1"
+    title: "Quote 1"
+    excerpt: User 1"
+
+  - image_path: /assets/images/landing/landing_quotation.png
+    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
+    alt: "quote 2"
+    title: "Quote 2"
     excerpt: "User 2"
-  #- image_path: /assets/images/landing/foo-image-3.png
-    title: "Testimonial 3"
+
+  - image_path: /assets/images/landing/landing_quotation.png
+    alt: "quote 3"
+    title: "Quote 3"
     excerpt: "User 3"
+
 
 feature_row3:
   - image_path: /assets/images/landing/foo-image-5.png
