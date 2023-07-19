@@ -82,9 +82,6 @@ feature_bard:
 feature_row5:
     title: "What you can do with AI Toolbox"
     excerpt: 'These are the things you can do with AI Toolbox.'
-    - Test
-    - Test
-    - <i> Test </i>
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
