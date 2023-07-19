@@ -61,16 +61,6 @@ feature_testimonials:
     title: "They are continually improving, and constantly ready to help support with any of their other products."
     excerpt: — Asset Store User
 
-
-feature_bard:
-  - image_path: /assets/images/landing/foo-image-5.png
-    alt: "Google Bard integration"
-    title: "Unity Bard in Unity"
-    excerpt: 'Google Bard intgration expands the palette of the AI tools available in your Unity project.'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-
 feature_runtime:
   - image_path: /assets/images/landing/foo-image-6.png
     alt: "AI in Runtime"
@@ -80,11 +70,21 @@ feature_runtime:
     btn_label: "Read More"
     btn_class: "btn--primary"
 
+feature_bard:
+  - image_path: /assets/images/landing/foo-image-5.png
+    alt: "Google Bard integration"
+    title: "Unity Bard in Unity"
+    excerpt: 'Google Bard intgration expands the palette of the AI tools available in your Unity project.'
+    url: "/getting-started/#google-bard"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+
 feature_row5:
-  - image_path: /assets/images/landing/foo-image-8.png
-    alt: "placeholder image 1"
-    title: "Placeholder Image Center Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
+    title: "What you can do with AI Toolbox"
+    excerpt: 'These are the things you can do with AI Toolbox.'
+    - Test
+    - Test
+    - <i> Test </i>
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
