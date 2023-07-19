@@ -37,7 +37,7 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--primary"
 
-feature_row2:
+feature_freeform_chat:
   - image_path: /assets/images/landing/foo-image-4.png
     alt: "placeholder image 2"
     title: "Freeform chat with AI"
@@ -53,7 +53,6 @@ feature_testimonials:
     title: "Quote 1"
     excerpt: User 1"
   - image_path: /assets/images/landing/landing_quotation.png
-    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "quote 2"
     title: "Quote 2"
     excerpt: "User 2"
@@ -95,9 +94,9 @@ feature_row5:
 
 {% include feature_row %}
 
-{% include feature_row id="feature_row2" type="left" %}
+{% include feature_row id="feature_freeform_chat" type="left" %}
 
-{% include feature_row id="feature_testimonials" type="center" %}
+{% include feature_row id="feature_testimonials"}
 
 {% include feature_row id="feature_row3" type="right" %}
 
