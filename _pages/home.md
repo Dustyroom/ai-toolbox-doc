@@ -50,16 +50,16 @@ feature_freeform_chat:
 feature_testimonials:
   - image_path: /assets/images/landing/landing_quotation.png
     alt: "quote 1"
-    title: "Quote 1"
-    excerpt: User 1"
+    title: "The most impressive aspect is how questions raised in the Discord community evolve into new features. With user feedback shaping its development, we've seen the integration of different Al sources like Google Bard, and the inclusion of the new Extended Context models such as GPT-3.5 16k. This real-time evolution is a testament to the asset's commitment to innovation and user-centricity."
+    excerpt: — Swyfft
   - image_path: /assets/images/landing/landing_quotation.png
     alt: "quote 2"
-    title: "Quote 2"
-    excerpt: "User 2"
+    title: "Al Toolbox has made it easy for me to get stuff done in my project for an amateur game developer. It's very easy to quickly prototype scripts and generate textures for walls or items needed in games. I use it to intergrade other templates and tools together in Unity. It's a great tool set at a affordable price!"
+    excerpt: — @CyberDeliaStudios
   - image_path: /assets/images/landing/landing_quotation.png
     alt: "quote 3"
-    title: "Quote 3"
-    excerpt: "User 3"
+    title: "They are continually improving, and constantly ready to help support with any of their other products."
+    excerpt: — Asset Store User
 
 
 feature_row3:
