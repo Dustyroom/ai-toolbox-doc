@@ -17,8 +17,7 @@ intro:
 feature_video_1:
   #- image_path: /assets/images/landing/none.png
   - video:
-    id: XsxDH4HcOWA
-    provider: youtube
+    image_path: /assets/images/banners/landing-banner-1.mp4
     title: "Text to script. That simple."
 
 feature_row:
