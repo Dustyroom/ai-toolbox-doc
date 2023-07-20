@@ -14,13 +14,14 @@ excerpt: "ChatGPT, DALL•E and Google Bard inside your Unity project."
 intro:
   - excerpt: 'Use the power of OpenAI GhatGPT in the Unity Editor and in your shipped games. It allows you to generate and edit C# scripts, seamlessly tiling images, shaders and UI documents from text descriptions, operate on new and existing scripts, freely chat with AI — right in your project.'
 # Centered with `type="center"`
+
 feature_video_1:
   - title: "Text to script. That simple."
 
 feature_row:
-  - image_path: /assets/images/landing/foo-image-1.png
-    alt: "placeholder image 1"
-    title: "Generate scripts from text"
+  #- image_path: /assets/images/landing/foo-image-1.png
+  #  alt: "placeholder image 1"
+  -  title: "Generate scripts from text"
     excerpt: "Write a prompt, press 'Generate' and have a script."
     url: "/getting-started/#generating-a-script-with-chatgpt-prompt-window"
     btn_label: "Watch Video"
@@ -28,15 +29,15 @@ feature_row:
     url: "/getting-started/#generating-a-script-with-chatgpt-prompt-window"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/landing/foo-image-2.png
-    alt: "placeholder image 2"
-    title: "Edit any script with AI"
+  #- image_path: /assets/images/landing/foo-image-2.png
+  #  alt: "placeholder image 2"
+  -  title: "Edit any script with AI"
     excerpt: "Edit newly generated or any old scripts with ChatGPT."
     url: "/getting-started/#editing-the-script-with-chatgpt-prompt-window"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/landing/foo-image-3.png
-    title: "Generate images from text"
+  #- image_path: /assets/images/landing/foo-image-3.png
+  -  title: "Generate images from text"
     excerpt: "Generate tileable images using DALL•E."
     url: "/getting-started/#generating-images-with-dalle"
     btn_label: "Read More"
@@ -97,9 +98,9 @@ feature_row5:
 {% include video_row.html url1='/assets/images/banners/landing-banner-1.mp4' url2='/assets/images/banners/landing-banner-1.mp4' url3='/assets/images/banners/landing-banner-1.mp4' %}
 -->
 {% include video.html url='/assets/images/banners/landing-banner-1.mp4' %}{: .image-rounded}
+
 {% include feature_row id="feature_video_1" type="center" %}
 
-{% include feature_row %}
 <div class="youtube-row">
   <div class="youtube-video-tile" width="33%">
     <iframe src="https://www.youtube.com/embed/cNq-uCBq5yU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -111,6 +112,7 @@ feature_row5:
     <iframe src="https://www.youtube.com/embed/6HlO9LsTLW0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
 </div>
+{% include feature_row %}
 
 {% include feature_row id="feature_freeform_chat" type="left" %}
 
