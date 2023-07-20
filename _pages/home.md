@@ -15,12 +15,13 @@ intro:
   - excerpt: 'Use the power of AI both in the Unity Editor and in your shipped games. It allows you to generate C# scripts from text descriptions, and generate images from text descriptions, including seamlessly tiling ones, right in your project.'
 # Centered with `type="center"`
 feature_video_1:
-  - image_path: /assets/images/landing/none.png
-    video:
+  #- image_path: /assets/images/landing/none.png
+  - video:
     id: XsxDH4HcOWA
     provider: youtube
+    <iframe width="640" height="360" src="https://www.youtube.com/embed/knEAuPbqX-w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     # alt: "AI in Runtime"
-    title: "Text to Script. That simple."
+    title: "Text to script. That simple."
     # excerpt: 'With AI Toolbox you can securely embed and control AI into the shipped games.'
     # url: "/runtime/"
     # btn_label: "Read More"
