@@ -5,7 +5,7 @@ permalink: /splash-page/
 header:
   overlay_color: "#351d59"
   overlay_filter: "0.0"
-  overlay_image: /assets/images/landing/landing_header_gradient_1.png
+  overlay_image: /assets/images/landing/landing_header_1.png
   actions:
     - label: "Get"
       url: "https://u3d.as/334o?aid=1101lHzQ"
