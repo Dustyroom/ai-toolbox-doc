@@ -15,7 +15,6 @@ intro:
   - excerpt: 'Use the power of OpenAI GhatGPT in the Unity Editor and in your shipped games. It allows you to generate and edit C# scripts, seamlessly tiling images, shaders and UI documents from text descriptions, operate on new and existing scripts, freely chat with AI — right in your project.'
 # Centered with `type="center"`
 feature_video_1:
-  #- image_path: /assets/images/landing/none.png
   - video:
     image_path: /assets/images/banners/landing-banner-1.mp4
     title: "Text to script. That simple."
@@ -98,6 +97,8 @@ feature_row5:
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row id="feature_video_1" type="center" %}
+
+{% include video id="/assets/images/banners/landing-banner-1.mp4" }
 
 {% include feature_row %}
 
