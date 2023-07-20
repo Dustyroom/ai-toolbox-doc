@@ -83,6 +83,8 @@ feature_row5:
   - image_path: /assets/images/landing/foo-image-7.png
     title: "What you can do with AI Toolbox"
     excerpt: 'These are the things you can do with AI Toolbox.'
+    * Test
+    * Test
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
