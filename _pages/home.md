@@ -93,12 +93,24 @@ feature_row5:
 ---
 
 {% include feature_row id="intro" type="center" %}
-
+<!--
 {% include video_row.html url1='/assets/images/banners/landing-banner-1.mp4' url2='/assets/images/banners/landing-banner-1.mp4' url3='/assets/images/banners/landing-banner-1.mp4' %}
+-->
 {% include video.html url='/assets/images/banners/landing-banner-1.mp4' %}{: .image-rounded}
 {% include feature_row id="feature_video_1" type="center" %}
 
 {% include feature_row %}
+<div id="youtube-row">
+  <div class="youtube-container">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/cNq-uCBq5yU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{: .image-rounded}
+  </div>
+  <div class="youtube-container">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/fedn7A9JTXA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{: .image-rounded}
+  </div>
+  <div class="youtube-container">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/6HlO9LsTLW0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{: .image-rounded}
+  </div>
+</div>
 
 {% include feature_row id="feature_freeform_chat" type="left" %}
 
