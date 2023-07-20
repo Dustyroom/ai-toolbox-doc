@@ -19,7 +19,6 @@ feature_video_1:
   - video:
     id: XsxDH4HcOWA
     provider: youtube
-    <iframe width="640" height="360" src="https://www.youtube.com/embed/knEAuPbqX-w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     # alt: "AI in Runtime"
     title: "Text to script. That simple."
     # excerpt: 'With AI Toolbox you can securely embed and control AI into the shipped games.'
