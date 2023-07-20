@@ -14,6 +14,18 @@ excerpt: "ChatGPT, DALL•E and Google Bard inside your Unity project."
 intro:
   - excerpt: 'Use the power of AI both in the Unity Editor and in your shipped games. It allows you to generate C# scripts from text descriptions, and generate images from text descriptions, including seamlessly tiling ones, right in your project.'
 # Centered with `type="center"`
+feature_video_1:
+  - image_path: /assets/images/landing/none.png
+    video:
+    id: XsxDH4HcOWA
+    provider: youtube
+    # alt: "AI in Runtime"
+    title: "Text to Script. That simple."
+    # excerpt: 'With AI Toolbox you can securely embed and control AI into the shipped games.'
+    # url: "/runtime/"
+    # btn_label: "Read More"
+    # btn_class: "btn--primary"
+
 feature_row:
   - image_path: /assets/images/landing/foo-image-1.png
     alt: "placeholder image 1"
@@ -93,6 +105,8 @@ feature_row5:
 
 {% include feature_row id="intro" type="center" %}
 
+{% include feature_row id="feature_video_1" type="center" %}
+
 {% include feature_row %}
 
 {% include feature_row id="feature_freeform_chat" type="left" %}
@@ -105,4 +119,4 @@ feature_row5:
 
 {% include feature_row id="feature_row5" type="center" %}
 
-
+{% include video id="XsxDH4HcOWA" provider="youtube" %}
