@@ -5,14 +5,14 @@ permalink: /splash-page/
 header:
   overlay_color: "#351d59"
   overlay_filter: "0.0"
-  overlay_image: /assets/images/landing/landing_header_flatcolor.png
+  overlay_image: /assets/images/landing/landing_header_gradient_1.png
   actions:
     - label: "Get"
       url: "https://u3d.as/334o?aid=1101lHzQ"
 #  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: "ChatGPT, DALL•E and Google Bard inside your Unity project."
 intro:
-  - excerpt: 'Use the power of OpenAI GhatGPT in the Unity Editor and in your shipped games. It allows you to generate C# scripts from text descriptions, and generate images from text descriptions, including seamlessly tiling ones, right in your project.'
+  - excerpt: 'Use the power of OpenAI GhatGPT in the Unity Editor and in your shipped games. It allows you to generate and edit C# scripts, seamlessly tiling images, shaders and UI documents from text descriptions, operate on new and existing scripts, freely chat with AI — right in your project.'
 # Centered with `type="center"`
 feature_video_1:
   #- image_path: /assets/images/landing/none.png
