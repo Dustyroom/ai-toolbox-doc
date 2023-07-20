@@ -16,7 +16,9 @@ intro:
 # Centered with `type="center"`
 feature_video_1:
   #- image_path: /assets/images/landing/none.png
-  - {% include video id="XsxDH4HcOWA" provider="youtube" %}
+  - video:
+    id: XsxDH4HcOWA
+    provider: youtube
     # alt: "AI in Runtime"
     title: "Text to script. That simple."
     # excerpt: 'With AI Toolbox you can securely embed and control AI into the shipped games.'
@@ -117,4 +119,11 @@ feature_row5:
 
 {% include feature_row id="feature_row5" type="center" %}
 
+{% include video id="cNq-uCBq5yU" provider="youtube" %}
+<!-- Video about generation -->
 
+{% include video id="fedn7A9JTXA" provider="youtube" %}
+<!-- Video about edits -->
+
+{% include video id="6HlO9LsTLW0" provider="youtube" %}
+<!-- Video about image generation -->
