@@ -4,27 +4,22 @@ layout: splash
 permalink: /splash-page/
 header:
   overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: /assets/images/banners/test-banner.png
+  overlay_filter: "0.0"
+  overlay_image: /assets/images/banners/landing_header_flatcolor.png
   actions:
     - label: "Get"
       url: "https://u3d.as/334o?aid=1101lHzQ"
 #  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: "ChatGPT, DALL•E and Google Bard inside your Unity project."
 intro:
-  - excerpt: 'Use the power of AI both in the Unity Editor and in your shipped games. It allows you to generate C# scripts from text descriptions, and generate images from text descriptions, including seamlessly tiling ones, right in your project.'
+  - excerpt: 'Use the power of OpenAI GhatGPT in the Unity Editor and in your shipped games. It allows you to generate C# scripts from text descriptions, and generate images from text descriptions, including seamlessly tiling ones, right in your project.'
 # Centered with `type="center"`
 feature_video_1:
   #- image_path: /assets/images/landing/none.png
   - video:
     id: XsxDH4HcOWA
     provider: youtube
-    # alt: "AI in Runtime"
     title: "Text to script. That simple."
-    # excerpt: 'With AI Toolbox you can securely embed and control AI into the shipped games.'
-    # url: "/runtime/"
-    # btn_label: "Read More"
-    # btn_class: "btn--primary"
 
 feature_row:
   - image_path: /assets/images/landing/foo-image-1.png
@@ -38,7 +33,6 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/landing/foo-image-2.png
-    # image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "placeholder image 2"
     title: "Edit any script with AI"
     excerpt: "Edit newly generated or any old scripts with ChatGPT."
@@ -56,7 +50,6 @@ feature_freeform_chat:
   - image_path: /assets/images/landing/foo-image-4.png
     alt: "placeholder image 2"
     title: "Freeform chat with AI"
-    # excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
     excerpt: 'With AI Toolbox you can chat with AI in the Unity Editor about anything — ask it to explain code, where to find things in Unity, learn a delicious taco recipe.'
     url: "/getting-started/#chat-with-ai"
     btn_label: "Read More"
