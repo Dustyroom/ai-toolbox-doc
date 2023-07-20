@@ -98,7 +98,7 @@ feature_row5:
 
 {% include feature_row id="feature_video_1" type="center" %}
 
-{% include video.html id='/assets/images/banners/landing-banner-1.mp4' %}
+{% include video.html url='/assets/images/banners/landing-banner-1.mp4' %}{: .image-rounded}
 
 {% include feature_row %}
 
