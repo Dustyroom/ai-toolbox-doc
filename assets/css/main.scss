@@ -105,7 +105,12 @@ html {
 
   .youtube-row {
     display: inline;
-    padding: 0 0 0 0;
+    padding: 0;
+  }
+
+  .youtube-video-tile {
+    display: inline;
+    padding: 0;
   }
 }
 
