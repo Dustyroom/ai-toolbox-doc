@@ -85,12 +85,12 @@ html {
 
  // Landing page customizations
  
-  .feature__item--center {
+  .feature__item--center .archive__item-body {
     font-size: 2em;
     //default is 1.125em
   }
 
-  .feature__item--left {
+  .feature__item--left .archive__item-body {
     font-size: 2em;
   }
 
