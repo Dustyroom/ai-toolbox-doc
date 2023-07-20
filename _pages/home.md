@@ -100,15 +100,15 @@ feature_row5:
 {% include feature_row id="feature_video_1" type="center" %}
 
 {% include feature_row %}
-<div id="youtube-row">
+<div class="youtube-row">
   <div class="youtube-container">
-    <iframe width="33%" src="https://www.youtube.com/embed/cNq-uCBq5yU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="100%" src="https://www.youtube.com/embed/cNq-uCBq5yU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
   <div class="youtube-container">
-    <iframe width="33%" src="https://www.youtube.com/embed/fedn7A9JTXA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="100%" src="https://www.youtube.com/embed/fedn7A9JTXA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
   <div class="youtube-container">
-    <iframe width="33%" src="https://www.youtube.com/embed/6HlO9LsTLW0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="100%" src="https://www.youtube.com/embed/6HlO9LsTLW0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
 </div>
 
