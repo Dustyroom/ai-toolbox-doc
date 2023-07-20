@@ -3,9 +3,9 @@
 layout: splash
 permalink: /splash-page/
 header:
-  overlay_color: "#000"
+  overlay_color: "#351d59"
   overlay_filter: "0.0"
-  overlay_image: /assets/images/banners/landing_header_flatcolor.png
+  overlay_image: /assets/images/landing/landing_header_flatcolor.png
   actions:
     - label: "Get"
       url: "https://u3d.as/334o?aid=1101lHzQ"
