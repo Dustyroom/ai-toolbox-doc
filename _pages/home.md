@@ -7,7 +7,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/banners/test-banner.png
   actions:
-    - label: "Buy"
+    - label: "Get"
       url: "https://u3d.as/334o?aid=1101lHzQ"
 #  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: "ChatGPT, DALL•E and Google Bard inside your Unity project."
@@ -73,7 +73,7 @@ feature_runtime:
 feature_bard:
   - image_path: /assets/images/landing/foo-image-5.png
     alt: "Google Bard integration"
-    title: "Unity Bard in Unity"
+    title: "Google Bard in Unity"
     excerpt: 'Google Bard intgration expands the palette of the AI tools available in your Unity project.'
     url: "/getting-started/#google-bard"
     btn_label: "Read More"
