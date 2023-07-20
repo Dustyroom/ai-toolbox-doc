@@ -20,6 +20,9 @@ feature_row:
     title: "Generate scripts from text"
     excerpt: "Write a prompt, press 'Generate' and have a script."
     url: "/getting-started/#generating-a-script-with-chatgpt-prompt-window"
+    btn_label: "Watch Video"
+    btn_class: "btn--primary"
+    url: "/getting-started/#generating-a-script-with-chatgpt-prompt-window"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/landing/foo-image-2.png
