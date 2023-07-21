@@ -112,7 +112,7 @@ feature_misc_things:
   #  btn_label: "Read More"
   #  btn_class: "btn--primary"
 
-feature_button_row:
+feature_buttons_row:
   - image_path: /assets/images/landing/none.png
     title: "Get AI Toolbox"
     excerpt: 'Get AI Toolbox from the Unity Asset Store.'
