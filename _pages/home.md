@@ -114,8 +114,8 @@ feature_misc_things:
 
 feature_button_row:
   - image_path: /assets/images/landing/none.png
-  #  title: "Get AI Toolbox"
-  #  excerpt: 'Get AI Toolbox from the Unity Asset Store.'
+    title: "Get AI Toolbox"
+    excerpt: 'Get AI Toolbox from the Unity Asset Store.'
     url: "https://u3d.as/334o?aid=1101lHzQ"
     btn_label: "Get AI Toolbox"
     btn_class: "btn--primary"
