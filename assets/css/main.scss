@@ -85,6 +85,10 @@ html {
 
  // Landing page customizations
  
+ .page__hero--overlay {
+  background-position: bottom;
+  }
+
   .feature__item--center {
     font-size: 2em;
     //default is 1.125em
