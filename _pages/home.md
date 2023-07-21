@@ -47,7 +47,7 @@ feature_freeform_chat:
   - image_path: /assets/images/landing/foo-image-4.png
     alt: "placeholder image 2"
     title: "Freeform chat with AI"
-    excerpt: 'With AI Toolbox you can chat with AI in the Unity Editor about anything — ask it to explain code, where to find things in Unity, learn a delicious taco recipe.'
+    excerpt: 'Chat with AI in the Unity Editor about anything — ask it to explain code, where to find things in Unity, learn a delicious taco recipe.'
     url: "/getting-started/#chat-with-ai"
     btn_label: "Read More"
     btn_class: "btn--primary"
@@ -84,13 +84,33 @@ feature_bard:
     btn_label: "Read More"
     btn_class: "btn--primary"
 
-feature_row5:
-  - image_path: /assets/images/landing/foo-image-7.png
+feature_misc_things:
+  - image_path: /assets/images/landing/foo-image-9.png
     title: "What you can do with AI Toolbox"
     excerpt: 'These are the things you can do with AI Toolbox.'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
+
+  - image_path: /assets/images/landing/foo-image-9.png
+    title: "What you can do with AI Toolbox"
+    excerpt: 'These are the things you can do with AI Toolbox.'
+    
+  - image_path: /assets/images/landing/foo-image-9.png
+    title: "What you can do with AI Toolbox"
+    excerpt: 'These are the things you can do with AI Toolbox.'
+  
+  - image_path: /assets/images/landing/foo-image-9.png
+    title: "What you can do with AI Toolbox"
+    excerpt: 'These are the things you can do with AI Toolbox.'
+  
+  - image_path: /assets/images/landing/foo-image-9.png
+    title: "What you can do with AI Toolbox"
+    excerpt: 'These are the things you can do with AI Toolbox.'
+  
+  - image_path: /assets/images/landing/foo-image-9.png
+    title: "What you can do with AI Toolbox"
+    excerpt: 'These are the things you can do with AI Toolbox.'
+  #  url: "#test-link"
+  #  btn_label: "Read More"
+  #  btn_class: "btn--primary"
 ---
 
 {% include feature_row id="intro" type="center" %}
@@ -122,13 +142,5 @@ feature_row5:
 
 {% include feature_row id="feature_bard" type="right" %}
 
-{% include feature_row id="feature_row5" type="center" %}
+{% include feature_row id="feature_misc_things" type="center" %}
 
-{% include video id="cNq-uCBq5yU" provider="youtube" %}
-<!-- Video about generation -->
-
-{% include video id="fedn7A9JTXA" provider="youtube" %}
-<!-- Video about edits -->
-
-{% include video id="6HlO9LsTLW0" provider="youtube" %}
-<!-- Video about image generation -->
