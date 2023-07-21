@@ -165,7 +165,7 @@ feature_buttons_row:
 
 {% include feature_row id="feature_misc_things" %}
 
-{% include feature_row id="buttons_row" %}
+{% include feature_row id="feature_buttons_row" %}
 
 <!--
 <div class="buttons-row">
