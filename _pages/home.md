@@ -146,6 +146,8 @@ feature_misc_things:
 {% include feature_row id="feature_misc_things" %}
 
 <div class="buttons-row">
+--- | --- | ---
 | [Get on Asset Store](https://u3d.as/334o?aid=1101lHzQ){: .btn .btn--x-large} | [Documentation](/overview/){: .btn .btn--x-large} | [Contact](/contact-details/){: .btn .btn--x-large} |
+[Link](#)
 </div>
 
