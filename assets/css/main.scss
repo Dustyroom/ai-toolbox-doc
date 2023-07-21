@@ -123,11 +123,19 @@ html {
   }
 
   .button-landing-large {
+    display: inline-block;
     font-size: 1.5em;
-    padding: 1em;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    padding: 0.5em 1em;
     margin: 0.5em;
     background-color: #999;
-    border-radius: 1vh;
+    //border-radius: 1vh;
+    border-width: 0;
+    border-radius: 4px;
+    cursor: pointer;
+    font-family: -apple-system,BlinkMacSystemFont,"Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;
   }
 }
 
