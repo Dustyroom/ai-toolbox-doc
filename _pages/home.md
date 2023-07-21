@@ -20,13 +20,9 @@ feature_video_1:
 
 feature_row:
   - image_path: /assets/images/landing/none.png
-  video: "https://www.youtube.com/embed/XsxDH4HcOWA"
-    #  alt: "placeholder image 1"
+  #  alt: "placeholder image 1"
     title: "Generate scripts from text"
     excerpt: "Write a prompt, press 'Generate' and have a script."
-    url: "/getting-started/#generating-a-script-with-chatgpt-prompt-window"
-    btn_label: "Watch Video"
-    btn_class: "btn--primary"
     url: "/getting-started/#generating-a-script-with-chatgpt-prompt-window"
     btn_label: "Read More"
     btn_class: "btn--primary"
