@@ -146,8 +146,8 @@ feature_misc_things:
 {% include feature_row id="feature_misc_things" %}
 
 <div class="buttons-row">
---- | --- | ---
-| [Get on Asset Store](https://u3d.as/334o?aid=1101lHzQ){: .btn .btn--x-large} | [Documentation](/overview/){: .btn .btn--x-large} | [Contact](/contact-details/){: .btn .btn--x-large} |
-[Link](#)
+<a href="https://u3d.as/334o?aid=1101lHzQ"><span class="button-landing-large">Get on Unity Asset Store</span></a>
+<a href="/overview/"><span class="button-landing-large">Documentation</span></a>
+<a href="/contact-details/"><span class="button-landing-large">Contact</span></a>
 </div>
 
