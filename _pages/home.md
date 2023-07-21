@@ -7,7 +7,7 @@ header:
   overlay_filter: "0.0"
   overlay_image: /assets/images/landing/landing-prompt-code-result-1.png
   actions:
-    - label: "Get"
+    - label: "Get on Unity Asset Store"
       url: "https://u3d.as/334o?aid=1101lHzQ"
 #  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: "ChatGPT, DALL•E and Google Bard inside your Unity project."
@@ -112,26 +112,6 @@ feature_misc_things:
   #  btn_label: "Read More"
   #  btn_class: "btn--primary"
 
-feature_buttons_row:
-  - image_path: /assets/images/landing/none.png
-    title: "Get AI Toolbox"
-    excerpt: 'Get AI Toolbox from the Unity Asset Store.'
-    url: "https://u3d.as/334o?aid=1101lHzQ"
-    btn_label: "Get AI Toolbox"
-    btn_class: "btn--primary"
-  - image_path: /assets/images/landing/none.png
-  #  title: "Get AI Toolbox"
-  #  excerpt: 'Get AI Toolbox from the Unity Asset Store.'
-    url: "https://u3d.as/334o?aid=1101lHzQ"
-    btn_label: "Documentation"
-    btn_class: "btn--primary"
-  - image_path: /assets/images/landing/none.png
-  #  title: "Get AI Toolbox"
-  #  excerpt: 'Get AI Toolbox from the Unity Asset Store.'
-    url: "https://u3d.as/334o?aid=1101lHzQ"
-    btn_label: "Contact"
-    btn_class: "btn--primary"  
-
 ---
 
 {% include feature_row id="intro" type="center" %}
@@ -165,9 +145,7 @@ feature_buttons_row:
 
 {% include feature_row id="feature_misc_things" %}
 
-{% include feature_row id="feature_buttons_row" %}
-
-<!--
 <div class="buttons-row">
+| [Get on Asset Store](https://u3d.as/334o?aid=1101lHzQ){: .btn .btn--x-large} | [Documentation](/overview/){: .btn .btn--x-large} | [Contact](/contact-details/){: .btn .btn--x-large} |
 </div>
--->
+
