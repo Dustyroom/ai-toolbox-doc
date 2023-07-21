@@ -69,8 +69,8 @@ feature_testimonials:
 feature_runtime:
   - image_path: /assets/images/landing/foo-image-6.png
     alt: "AI in Runtime"
-    title: "Embed AI into the shipped games, securely."
-    excerpt: 'With AI Toolbox you can securely embed and control AI into the shipped games.'
+    title: "Use AI in the shipped games, securely."
+    excerpt: 'With AI Toolbox you can securely use and remotely control AI in the shipped games.'
     url: "/runtime/"
     btn_label: "Read More"
     btn_class: "btn--primary"
@@ -142,5 +142,5 @@ feature_misc_things:
 
 {% include feature_row id="feature_bard" type="right" %}
 
-{% include feature_row id="feature_misc_things" type="center" %}
+{% include feature_row id="feature_misc_things" %}
 
