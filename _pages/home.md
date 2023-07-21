@@ -76,7 +76,7 @@ feature_runtime:
     btn_class: "btn--primary"
 
 feature_bard:
-  - image_path: /assets/images/landing/foo-image-5.png
+  - image_path: /assets/images/landing/google_bard_logo.png
     alt: "Google Bard integration"
     title: "Google Bard in Unity"
     excerpt: 'Google Bard intgration expands the palette of the AI tools available in your Unity project.'
