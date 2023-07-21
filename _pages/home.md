@@ -86,31 +86,52 @@ feature_bard:
 
 feature_misc_things:
   - image_path: /assets/images/landing/foo-image-9.png
-    title: "What you can do with AI Toolbox"
-    excerpt: 'These are the things you can do with AI Toolbox.'
+    title: "Learn to Code"
+    excerpt: 'Understand C# and Unity concepts through generated scripts and freeform chat.'
 
   - image_path: /assets/images/landing/foo-image-9.png
-    title: "What you can do with AI Toolbox"
-    excerpt: 'These are the things you can do with AI Toolbox.'
+    title: "Boost Productivity"
+    excerpt: 'Speed up development with quick script generation.'
     
   - image_path: /assets/images/landing/foo-image-9.png
-    title: "What you can do with AI Toolbox"
-    excerpt: 'These are the things you can do with AI Toolbox.'
+    title: "Starting Point"
+    excerpt: 'Already know coding? Start with generated scripts as a base with boilerplate code.'
   
   - image_path: /assets/images/landing/foo-image-9.png
-    title: "What you can do with AI Toolbox"
-    excerpt: 'These are the things you can do with AI Toolbox.'
+    title: "Rapid Prototyping"
+    excerpt: 'Test ideas and mechanics more efficiently.'
   
   - image_path: /assets/images/landing/foo-image-9.png
-    title: "What you can do with AI Toolbox"
-    excerpt: 'These are the things you can do with AI Toolbox.'
+    title: "Iterative Development"
+    excerpt: 'Generate scripts and iterate on them as needed by editing with the AI.'
   
   - image_path: /assets/images/landing/foo-image-9.png
-    title: "What you can do with AI Toolbox"
-    excerpt: 'These are the things you can do with AI Toolbox.'
+    title: "Fix code errors with AI"
+    excerpt: 'Ask ChatGPT or Google Bard to search for errors in the code and fix them.'
   #  url: "#test-link"
   #  btn_label: "Read More"
   #  btn_class: "btn--primary"
+
+feature_button_row:
+  - image_path: /assets/images/landing/none.png
+  #  title: "Get AI Toolbox"
+  #  excerpt: 'Get AI Toolbox from the Unity Asset Store.'
+    url: "https://u3d.as/334o?aid=1101lHzQ"
+    btn_label: "Get AI Toolbox"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/landing/none.png
+  #  title: "Get AI Toolbox"
+  #  excerpt: 'Get AI Toolbox from the Unity Asset Store.'
+    url: "https://u3d.as/334o?aid=1101lHzQ"
+    btn_label: "Documentation"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/landing/none.png
+  #  title: "Get AI Toolbox"
+  #  excerpt: 'Get AI Toolbox from the Unity Asset Store.'
+    url: "https://u3d.as/334o?aid=1101lHzQ"
+    btn_label: "Contact"
+    btn_class: "btn--primary"  
+
 ---
 
 {% include feature_row id="intro" type="center" %}
@@ -144,3 +165,9 @@ feature_misc_things:
 
 {% include feature_row id="feature_misc_things" %}
 
+{% include feature_row id="buttons_row" %}
+
+<!--
+<div class="buttons-row">
+</div>
+-->
