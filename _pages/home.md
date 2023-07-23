@@ -82,27 +82,27 @@ feature_bard:
     btn_class: "btn--primary"
 
 feature_misc_things:
-  - image_path: /assets/images/landing/foo-image-9.png
+  - image_path: /assets/images/landing/landing_icon_learn.svg
     title: "Learn to Code"
     excerpt: 'Understand C# and Unity concepts through generated scripts and freeform chat.'
 
-  - image_path: /assets/images/landing/foo-image-9.png
+  - image_path: /assets/images/landing/landing_icon_boost_productivity.svg
     title: "Boost Productivity"
     excerpt: 'Speed up development with quick script generation.'
     
-  - image_path: /assets/images/landing/foo-image-9.png
+  - image_path: /assets/images/landing/landing_icon_starting_point.svg
     title: "Starting Point"
     excerpt: 'Already know coding? Start with generated scripts as a base with boilerplate code.'
   
-  - image_path: /assets/images/landing/foo-image-9.png
+  - image_path: /assets/images/landing/landing_icon_rapid_prototyping.svg
     title: "Rapid Prototyping"
     excerpt: 'Test ideas and mechanics more efficiently.'
   
-  - image_path: /assets/images/landing/foo-image-9.png
+  - image_path: /assets/images/landing/landing_icon_iterative_development.svg
     title: "Iterative Development"
     excerpt: 'Generate scripts and iterate on them as needed by editing with the AI.'
   
-  - image_path: /assets/images/landing/foo-image-9.png
+  - image_path: /assets/images/landing/landing_icon_fix_errors.svg
     title: "Fix code errors with AI"
     excerpt: 'Ask ChatGPT or Google Bard to search for errors in the code and fix them.'
   #  url: "#test-link"
