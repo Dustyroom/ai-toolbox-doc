@@ -68,7 +68,7 @@ feature_runtime:
   - image_path: /assets/images/landing/foo-image-6.png
     alt: "AI in Runtime"
     title: "Use AI in the shipped games, securely."
-    excerpt: 'With AI Toolbox you can securely use and remotely control AI in the shipped games.'
+    excerpt: 'With AI Toolbox you can securely use and remotely control AI in the shipped games. It can be used for anything from NPC dialogue to generating game mechanics.'
     url: "/runtime/"
     btn_label: "Read More"
     btn_class: "btn--primary"
