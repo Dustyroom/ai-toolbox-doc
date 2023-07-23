@@ -42,7 +42,7 @@ feature_row:
     btn_class: "btn--primary"
 
 feature_freeform_chat:
-  - image_path: /assets/images/landing/foo-image-4.png
+  - image_path: /assets/images/landing/ai_toolbox_landing_chat_6.png
     alt: "placeholder image 2"
     title: "Freeform chat with AI"
     excerpt: 'Chat with AI in the Unity Editor about anything — ask it to explain code, where to find things in Unity, learn a delicious taco recipe.'
