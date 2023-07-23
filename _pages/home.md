@@ -65,7 +65,7 @@ feature_testimonials:
     excerpt: — Asset Store User
 
 feature_runtime:
-  - image_path: /assets/images/landing/foo-image-6.png
+  - image_path: /assets/images/landing/ai_toolbox_runtime_inspector_1.png
     alt: "AI in Runtime"
     title: "Use AI in the shipped games, securely."
     excerpt: 'With AI Toolbox you can securely use and remotely control AI in the shipped games. It can be used for anything from NPC dialogue to generating game mechanics.'
