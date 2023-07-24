@@ -123,7 +123,9 @@ feature_misc_things:
 {% include feature_row id="feature_video_1" type="center" %}
 
 <div class="youtube-row">
+<p>
 <span class="landing-heading-fancy">Let AI do the heavy lifting for you.</span>
+</p>
 
   <div class="youtube-video-tile" width="33%">
     <iframe src="https://www.youtube.com/embed/cNq-uCBq5yU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
