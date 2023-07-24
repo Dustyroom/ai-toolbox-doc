@@ -12,10 +12,6 @@ excerpt: "ChatGPT, DALL•E and Google Bard inside your Unity project."
 intro:
   - excerpt: 'Use the power of OpenAI GhatGPT in the Unity Editor and in your shipped games. It allows you to generate and edit C# scripts, seamlessly tiling images, shaders and UI documents from text descriptions, operate on new and existing scripts, freely chat with AI — right in your project.'
 
-Supercharge your Unity workflow to build games in faster, easier ways.
-
-Get AI-generated scripts, images, shaders and UI documents from text descriptions.
-
 feature_video_1:
   - title: "Let AI do the heavy lifting for you."
 
@@ -113,9 +109,15 @@ feature_misc_things:
 ---
 
 {% include feature_row id="intro" type="center" %}
+
+Supercharge your Unity workflow to build games in faster, easier ways.
+
+Get AI-generated scripts, images, shaders and UI documents from text descriptions.
+
 <!--
 {% include video_row.html url1='/assets/images/banners/landing-banner-1.mp4' url2='/assets/images/banners/landing-banner-1.mp4' url3='/assets/images/banners/landing-banner-1.mp4' %}
 -->
+
 {% include video.html url='/assets/images/banners/landing-banner-1.mp4' %}
 
 {% include feature_row id="feature_video_1" type="center" %}
