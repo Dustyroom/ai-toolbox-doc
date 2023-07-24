@@ -1,5 +1,5 @@
 ---
-# title: "Splash Page"
+title: "AI Toolbox"
 layout: splash
 permalink: /
 header:
