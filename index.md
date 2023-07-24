@@ -1,7 +1,7 @@
 ---
 title: "AI Toolbox"
 layout: splash
-permalink: /splash-page/
+permalink: /
 header:
   overlay_color: "#351d59"
   overlay_filter: "0.0"
