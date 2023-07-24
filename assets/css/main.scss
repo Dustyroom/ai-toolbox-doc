@@ -5,6 +5,7 @@
 @charset "utf-8";
 
 $primary-color: rgb(85, 75, 140) !default;
+$splash-color: rgb(235, 233, 235) !default;
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
@@ -145,5 +146,14 @@ html {
 
   .button-landing-large:hover {
     background-color: #443c70;
+  }
+
+  // Override background color on layout--splash
+  body.layout--splash {
+    background-color:$splash-color;
+  }
+
+  .layout--splash .greedy-nav {
+    background: transparent;
   }
 }
