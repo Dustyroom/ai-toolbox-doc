@@ -101,10 +101,10 @@ feature_misc_things:
 ---
 
 {% include feature_row id="intro" %}
-
+<p class="landing-paragraph-center">
 <span class="landing-heading-fancy">Supercharge your Unity workflow to build games in faster, easier ways.</span>
-
 <span class="landing-text-fancy">Get AI-generated scripts, images, shaders and UI documents from text descriptions.</span>
+</p>
 
 <!--
 {% include video_row.html url1='/assets/images/banners/landing-banner-1.mp4' url2='/assets/images/banners/landing-banner-1.mp4' url3='/assets/images/banners/landing-banner-1.mp4' %}
