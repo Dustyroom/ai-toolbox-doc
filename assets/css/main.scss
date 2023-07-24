@@ -84,7 +84,7 @@ html {
   }
 
  // Landing page customizations
- 
+
  .page__hero--overlay {
   background-position: bottom;
   }
@@ -146,5 +146,9 @@ html {
   .button-landing-large:hover {
     background-color: #443c70;
   }
-}
 
+  // Override background color on layout--splash
+  .layout--splash {
+    background-color: #3c7043;
+  }
+}
