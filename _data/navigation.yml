@@ -1,4 +1,6 @@
 main:
+  - title: Documentation
+    url: /overview/
   - title: Asset Store
     url: https://u3d.as/334o?aid=1101lHzQ
   - title: Discord
@@ -12,7 +14,7 @@ docs:
   - title: Editor Usage
     children:
       - title: Overview
-        url: /
+        url: /overview/
       - title: Installation
         url: /installation/
       - title: Google Bard Setup

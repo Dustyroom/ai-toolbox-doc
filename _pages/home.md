@@ -1,7 +1,7 @@
 ---
 # title: "Splash Page"
 layout: splash
-permalink: /splash-page/
+permalink: /
 header:
   overlay_color: "#351d59"
   overlay_filter: "0.0"
@@ -90,19 +90,19 @@ feature_misc_things:
   - image_path: /assets/images/landing/landing_icon_boost_productivity.svg
     title: "Boost Productivity"
     excerpt: 'Speed up development with quick script generation.'
-    
+
   - image_path: /assets/images/landing/landing_icon_starting_point.svg
     title: "Starting Point"
     excerpt: 'Already know coding? Start with generated scripts as a base with boilerplate code.'
-  
+
   - image_path: /assets/images/landing/landing_icon_rapid_prototyping.svg
     title: "Rapid Prototyping"
     excerpt: 'Test ideas and mechanics more efficiently.'
-  
+
   - image_path: /assets/images/landing/landing_icon_iterative_development.svg
     title: "Iterative Development"
     excerpt: 'Generate scripts and iterate on them as needed by editing with the AI.'
-  
+
   - image_path: /assets/images/landing/landing_icon_fix_errors.svg
     title: "Fix code errors with AI"
     excerpt: 'Ask ChatGPT or Google Bard to search for errors in the code and fix them.'
@@ -148,4 +148,3 @@ feature_misc_things:
 <a href="/overview/"><span class="button-landing-large">Documentation</span></a>
 <a href="/contact-details/"><span class="button-landing-large">Contact</span></a>
 </div>
-
