@@ -13,7 +13,7 @@ intro:
 #  - excerpt: 'Use the power of OpenAI GhatGPT in the Unity Editor and in your shipped games. It allows you to generate and edit C# scripts, seamlessly tiling images, shaders and UI documents from text descriptions, operate on new and existing scripts, freely chat with AI — right in your project.'
 
 feature_video_1:
-  - title: "Let AI do the heavy lifting for you."
+  #- title: "Let AI do the heavy lifting for you."
 
 feature_row:
   #- image_path: /assets/images/landing/none.png
@@ -123,6 +123,8 @@ feature_misc_things:
 {% include feature_row id="feature_video_1" type="center" %}
 
 <div class="youtube-row">
+<span class="landing-heading-fancy">Let AI do the heavy lifting for you.</span>
+
   <div class="youtube-video-tile" width="33%">
     <iframe src="https://www.youtube.com/embed/cNq-uCBq5yU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
