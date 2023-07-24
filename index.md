@@ -10,7 +10,7 @@ header:
       url: "https://u3d.as/334o?aid=1101lHzQ"
 excerpt: "ChatGPT, DALL•E and Google Bard inside your Unity project."
 intro:
-  - excerpt: 'Use the power of OpenAI GhatGPT in the Unity Editor and in your shipped games. It allows you to generate and edit C# scripts, seamlessly tiling images, shaders and UI documents from text descriptions, operate on new and existing scripts, freely chat with AI — right in your project.'
+#  - excerpt: 'Use the power of OpenAI GhatGPT in the Unity Editor and in your shipped games. It allows you to generate and edit C# scripts, seamlessly tiling images, shaders and UI documents from text descriptions, operate on new and existing scripts, freely chat with AI — right in your project.'
 
 feature_video_1:
   - title: "Let AI do the heavy lifting for you."
@@ -108,11 +108,11 @@ feature_misc_things:
 
 ---
 
-{% include feature_row id="intro" type="center" %}
+{% include feature_row id="intro" %}
 
-Supercharge your Unity workflow to build games in faster, easier ways.
+<span class="landing-heading-fancy">Supercharge your Unity workflow to build games in faster, easier ways.</span>
 
-Get AI-generated scripts, images, shaders and UI documents from text descriptions.
+<span class="landing-text-fancy">Get AI-generated scripts, images, shaders and UI documents from text descriptions.</span>
 
 <!--
 {% include video_row.html url1='/assets/images/banners/landing-banner-1.mp4' url2='/assets/images/banners/landing-banner-1.mp4' url3='/assets/images/banners/landing-banner-1.mp4' %}
