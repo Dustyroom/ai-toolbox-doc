@@ -16,7 +16,6 @@ intro:
 
 feature_video_1:
   - title: "Text to script. That simple."
-    excerpt: " "
 
 feature_row:
   #- image_path: /assets/images/landing/none.png
