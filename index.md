@@ -102,10 +102,10 @@ feature_misc_things:
 
 {% include feature_row id="intro" %}
 <p class="landing-paragraph-center">
-<span class="landing-heading-fancy">Supercharge your Unity workflow to build games in faster, easier ways.</span>
+<span class="landing-heading-fancy">Build games in faster, easier ways using AI.</span>
 </p>
 <p class="landing-paragraph-center">
-<span class="landing-text-fancy">Get AI-generated scripts, images, shaders and UI documents from text descriptions.</span>
+<span class="landing-text-fancy">Get AI-generated <b>scripts, shaders, UI and textures</b> from <b>text descriptions</b>.</span>
 </p>
 
 <!--
