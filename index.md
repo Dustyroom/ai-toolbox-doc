@@ -115,7 +115,7 @@ feature_misc_things:
 <!--
 {% include video_row.html url1='/assets/images/banners/landing-banner-1.mp4' url2='/assets/images/banners/landing-banner-1.mp4' url3='/assets/images/banners/landing-banner-1.mp4' %}
 -->
-{% include video.html url='/assets/images/banners/landing-banner-1.mp4' %}{: .image-rounded}
+{% include video.html url='/assets/images/banners/landing-banner-1.mp4' %}
 
 {% include feature_row id="feature_video_1" type="center" %}
 
