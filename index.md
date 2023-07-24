@@ -16,21 +16,16 @@ feature_video_1:
   #- title: "Let AI do the heavy lifting for you."
 
 feature_row:
-  #- image_path: /assets/images/landing/none.png
-  #  alt: "placeholder image 1"
   - title: "Generate scripts from text"
     excerpt: "Write a prompt, press 'Generate' and have a script."
     url: "/getting-started/#generating-a-script-with-chatgpt-prompt-window"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  #- image_path: /assets/images/landing/none.png
-  #  alt: "placeholder image 2"
   - title: "Edit any script with AI"
     excerpt: "Edit newly generated or any old scripts with ChatGPT."
     url: "/getting-started/#editing-the-script-with-chatgpt-prompt-window"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  #- image_path: /assets/images/landing/none.png
   - title: "Generate images from text"
     excerpt: "Generate tileable images using DALL•E."
     url: "/getting-started/#generating-images-with-dalle"
@@ -102,9 +97,6 @@ feature_misc_things:
   - image_path: /assets/images/landing/landing_icon_fix_errors_1.svg
     title: "Fix code errors with AI"
     excerpt: 'Ask ChatGPT or Google Bard to search for errors in the code and fix them.'
-  #  url: "#test-link"
-  #  btn_label: "Read More"
-  #  btn_class: "btn--primary"
 
 ---
 
@@ -123,9 +115,7 @@ feature_misc_things:
 {% include feature_row id="feature_video_1" type="center" %}
 
 <div class="youtube-row">
-<p>
-<span class="landing-heading-fancy">Let AI do the heavy lifting for you.</span>
-</p>
+<!--<span class="landing-heading-fancy">Let AI do the heavy lifting for you.</span>-->
 
   <div class="youtube-video-tile" width="33%">
     <iframe src="https://www.youtube.com/embed/cNq-uCBq5yU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
