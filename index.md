@@ -82,27 +82,27 @@ feature_bard:
     btn_class: "btn--primary"
 
 feature_misc_things:
-  - image_path: /assets/images/landing/landing_icon_learn.svg
+  - image_path: /assets/images/landing/landing_icon_learn_1.svg
     title: "Learn to Code"
     excerpt: 'Understand C# and Unity concepts through generated scripts and freeform chat.'
 
-  - image_path: /assets/images/landing/landing_icon_boost_productivity.svg
+  - image_path: /assets/images/landing/landing_icon_boost_productivity_1.svg
     title: "Boost Productivity"
     excerpt: 'Speed up development with quick script generation.'
 
-  - image_path: /assets/images/landing/landing_icon_starting_point.svg
+  - image_path: /assets/images/landing/landing_icon_starting_point_1.svg
     title: "Starting Point"
     excerpt: 'Already know coding? Start with generated scripts as a base with boilerplate code.'
 
-  - image_path: /assets/images/landing/landing_icon_rapid_prototyping.svg
+  - image_path: /assets/images/landing/landing_icon_rapid_prototyping_1.svg
     title: "Rapid Prototyping"
     excerpt: 'Test ideas and mechanics more efficiently.'
 
-  - image_path: /assets/images/landing/landing_icon_iterative_development.svg
+  - image_path: /assets/images/landing/landing_icon_iterative_development_1.svg
     title: "Iterative Development"
     excerpt: 'Generate scripts and iterate on them as needed by editing with the AI.'
 
-  - image_path: /assets/images/landing/landing_icon_fix_errors.svg
+  - image_path: /assets/images/landing/landing_icon_fix_errors_1.svg
     title: "Fix code errors with AI"
     excerpt: 'Ask ChatGPT or Google Bard to search for errors in the code and fix them.'
   #  url: "#test-link"
