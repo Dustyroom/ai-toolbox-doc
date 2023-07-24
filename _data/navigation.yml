@@ -1,6 +1,4 @@
 main:
-  - title: Home
-    url: /
   - title: Documentation
     url: /overview/
   - title: Asset Store
