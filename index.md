@@ -19,22 +19,22 @@ feature_video_1:
 #  excerpt: "duh"
 
 feature_row:
-  - image_path: /assets/images/landing/none.png
+  #- image_path: /assets/images/landing/none.png
   #  alt: "placeholder image 1"
-    title: "Generate scripts from text"
+  - title: "Generate scripts from text"
     excerpt: "Write a prompt, press 'Generate' and have a script."
     url: "/getting-started/#generating-a-script-with-chatgpt-prompt-window"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/landing/none.png
+  #- image_path: /assets/images/landing/none.png
   #  alt: "placeholder image 2"
-    title: "Edit any script with AI"
+  - title: "Edit any script with AI"
     excerpt: "Edit newly generated or any old scripts with ChatGPT."
     url: "/getting-started/#editing-the-script-with-chatgpt-prompt-window"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/landing/none.png
-    title: "Generate images from text"
+  #- image_path: /assets/images/landing/none.png
+  - title: "Generate images from text"
     excerpt: "Generate tileable images using DALL•E."
     url: "/getting-started/#generating-images-with-dalle"
     btn_label: "Read More"
