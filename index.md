@@ -1,5 +1,4 @@
 ---
-title: "AI Toolbox"
 layout: splash
 permalink: /
 header:
