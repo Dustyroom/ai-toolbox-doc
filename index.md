@@ -139,7 +139,7 @@ feature_testimonials_2:
 
 {% include feature_row id="feature_freeform_chat" type="center" %}
 
-{% include feature_row id="feature_testimonials_1" type="right" %}
+{% include feature_row id="feature_testimonials_1" type="left" %}
 
 {% include feature_row id="feature_runtime" type="center" %}
 
