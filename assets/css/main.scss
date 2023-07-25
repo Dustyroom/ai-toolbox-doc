@@ -195,11 +195,7 @@ html {
     background: transparent;
   }
 
-  body.layout--splash .feature__wrapper #intro {
-    margin-bottom: 0;
-  }
-
   div.feature__wrapper.fw-noline {
-    margin-bottom: unset;
+    border-bottom: unset;
   }
 }
