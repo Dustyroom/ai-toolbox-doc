@@ -90,6 +90,16 @@ html {
   background-position: bottom;
   }
 
+  .archive__item-title {
+    font-family: "Montserrat", -apple-system,BlinkMacSystemFont,"Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;
+    font-weight: normal;
+    font-style: italic;
+  }
+
+  .archive__item-body {
+    font-family: "Montserrat", -apple-system,BlinkMacSystemFont,"Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;
+  }
+
   .feature__item {
     padding-bottom: 1em;
   }
@@ -100,7 +110,7 @@ html {
   }
 
   .feature__item--left {
-    font-size: 1.3em;
+    font-size: 1.2em;
   }
 
   .feature__item--right {
@@ -164,14 +174,14 @@ html {
     padding: 0em;
     //background-color: #554b8c;
     color: #222831;
-    font-family: -apple-system,BlinkMacSystemFont,"Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;
+    font-family: "Montserrat", -apple-system,BlinkMacSystemFont,"Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;
     line-height: 1.25em;
   }
 
   .landing-text-fancy {
     font-size: 1.5em;
     text-align: center;
-    font-family: -apple-system,BlinkMacSystemFont,"Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;
+    font-family: "Montserrat", -apple-system,BlinkMacSystemFont,"Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;
   }
 
   body.layout--splash {
