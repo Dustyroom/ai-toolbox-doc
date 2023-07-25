@@ -90,6 +90,10 @@ html {
   background-position: bottom;
   }
 
+  .feature__item {
+    padding-bottom: 1em;
+  }
+
   .feature__item--center {
     font-size: 2em;
     //default is 1.125em
@@ -110,6 +114,7 @@ html {
 
   .youtube-row {
     display: flex;
+    padding-top: 1em;
   }
 
   .youtube-video-tile {
