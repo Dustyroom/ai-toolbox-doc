@@ -41,19 +41,11 @@ feature_freeform_chat:
     btn_label: "Read More"
     btn_class: "btn--primary"
 
-feature_testimonials:
-  - image_path: /assets/images/landing/landing_quotation.png
-    alt: "quote 1"
+feature_testimonials_1:
+  - image_path: /assets/images/landing/landing_quotation_1.svg
+    alt: "quotation"
     title: "The most impressive aspect is how questions raised in the Discord community evolve into new features. With user feedback shaping its development, we've seen the integration of different Al sources like Google Bard, and the inclusion of the new Extended Context models such as GPT-3.5 16k. This real-time evolution is a testament to the asset's commitment to innovation and user-centricity."
     excerpt: — Swyfft
-  - image_path: /assets/images/landing/landing_quotation.png
-    alt: "quote 2"
-    title: "Al Toolbox has made it easy for me to get stuff done in my project for an amateur game developer. It's very easy to quickly prototype scripts and generate textures for walls or items needed in games. I use it to intergrade other templates and tools together in Unity. It's a great tool set at a affordable price!"
-    excerpt: — @CyberDeliaStudios
-  - image_path: /assets/images/landing/landing_quotation.png
-    alt: "quote 3"
-    title: "They are continually improving, and constantly ready to help support with any of their other products."
-    excerpt: — Asset Store User
 
 feature_runtime:
   - image_path: /assets/images/landing/ai_toolbox_runtime_inspector_2.png
@@ -97,6 +89,20 @@ feature_misc_things:
   - image_path: /assets/images/landing/landing_icon_fix_errors_1.svg
     title: "Fix code errors with AI"
     excerpt: 'Ask ChatGPT or Google Bard to search for errors in the code and fix them.'
+
+feature_testimonials_2:
+  - image_path: /assets/images/landing/landing_quotation_2.svg
+    alt: "quotation"
+    title: "Al Toolbox has made it easy for me to get stuff done in my project for an amateur game developer. It's very easy to quickly prototype scripts and generate textures for walls or items needed in games. I use it to intergrade other templates and tools together in Unity. It's a great tool set at a affordable price!"
+    excerpt: — @CyberDeliaStudios
+  - image_path: /assets/images/landing/landing_quotation_2.svg
+    alt: "quotation"
+    title: "Buy this asset and just forget all the other money-hunters who are releasing their AI tools while not knowing what they are doing."
+    excerpt: — Asset Store User
+  - image_path: /assets/images/landing/landing_quotation_2.svg
+    alt: "quotation"
+    title: "They are continually improving, and constantly ready to help support with any of their other products."
+    excerpt: — Asset Store User
 
 ---
 
