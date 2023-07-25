@@ -139,13 +139,15 @@ feature_testimonials_2:
 
 {% include feature_row id="feature_freeform_chat" type="center" %}
 
-{% include feature_row id="feature_testimonials" %}
+{% include feature_row id="feature_testimonials_1" type="right" %}
 
 {% include feature_row id="feature_runtime" type="center" %}
 
 {% include feature_row id="feature_bard" type="center" %}
 
 {% include feature_row id="feature_misc_things" %}
+
+{% include feature_row id="feature_testimonials_2" %}
 
 <div class="buttons-row">
 <a href="https://u3d.as/334o?aid=1101lHzQ"><span class="button-landing-large">Get on Asset Store</span></a>
