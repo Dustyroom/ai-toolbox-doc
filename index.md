@@ -42,7 +42,7 @@ feature_freeform_chat:
     btn_class: "btn--primary"
 
 feature_testimonials_1:
-  - image_path: /assets/images/landing/landing_quotation_1.svg
+  - image_path: /assets/images/landing/landing_quotation_3.svg
     alt: "quotation"
     title: "The most impressive aspect is how questions raised in the Discord community evolve into new features. With user feedback shaping its development, we've seen the integration of different Al sources like Google Bard, and the inclusion of the new Extended Context models such as GPT-3.5 16k. This real-time evolution is a testament to the asset's commitment to innovation and user-centricity."
     excerpt: — Swyfft
