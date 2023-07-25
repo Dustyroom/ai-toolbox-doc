@@ -106,7 +106,7 @@ feature_testimonials_2:
 
 ---
 
-{% include feature_row id="intro" %}
+{% include feature_row id="intro" %}{: .fw-noline}
 <p class="landing-paragraph-center">
 <span class="landing-heading-fancy">Build games in faster, easier ways using AI.</span>
 </p>
