@@ -87,41 +87,41 @@ feature_misc_things:
 feature_testimonials_1:
   - image_path: /assets/images/landing/landing_quotation_3.svg
     alt: "quotation"
-    title: "Al Toolbox has made it easy for me to <b>get stuff done</b> in my project for an amateur game developer. It's very easy to <b>quickly prototype scripts and generate textures</b> for walls or items needed in games. I use it to intergrade other templates and tools together in Unity. It's a great tool set at a affordable price!"
+    title: "AI Toolbox has made it easy for me to <b>get stuff done</b> in my project for an amateur game developer. It's very easy to <b>quickly prototype scripts</b> and <b>generate textures</b> for walls or items needed in games.
+            I use it to intergrade other templates and tools together in Unity. It's a great tool set at a affordable price!"
     excerpt: — @CyberDeliaStudios
 
 feature_testimonials_2:
   - image_path: /assets/images/landing/landing_quotation_2.svg
     alt: "quotation"
-    title: "I can't believe how much this asset has changed my development process!"
+    title: "<b>I can't believe</b> how much this asset has changed my development process!"
     excerpt: — Asset Store User
   - image_path: /assets/images/landing/landing_quotation_2.svg
     alt: "quotation"
-    title: "I can't recommend this asset highly enough. It truly has the potential to revolutionize your workflow, bringing unprecedented value to your game development endeavors."
+    title: "I can't recommend this asset highly enough. It truly has the potential to <b>revolutionize your workflow</b>, bringing unprecedented value to your game development endeavors."
     excerpt: — Asset Store User
   - image_path: /assets/images/landing/landing_quotation_2.svg
     alt: "quotation"
-    title: "The dev is the most helpful person I've met so far and the asset is a huge help to any creator, beginner or advanced."
+    title: "The dev is the most helpful person I've met so far and the asset is a <b>huge help</b> to any creator, beginner or advanced."
     excerpt: — Asset Store User
   - image_path: /assets/images/landing/landing_quotation_2.svg
     alt: "quotation"
-    title: "The support from the authors is really really good and for that alone I give asset five stars."
+    title: "The <b>support from the authors</b> is really really good and for that alone I give asset five stars."
     excerpt: — Asset Store User
   - image_path: /assets/images/landing/landing_quotation_2.svg
     alt: "quotation"
-    title: "They are continually improving, and constantly ready to help support with any of their other products."
+    title: "They are <b>continually improving</b>, and constantly ready to help support with any of their other products."
     excerpt: — Asset Store User
   - image_path: /assets/images/landing/landing_quotation_2.svg
     alt: "quotation"
-    title: "This Plugin is hands down the best integration of ChatGPT and DALL-E to use in Engine for creation of scripts and images."
+    title: "This Plugin is hands down <b>the best integration</b> of ChatGPT and DALL-E to use in Engine for creation of scripts and images."
     excerpt: — Asset Store User
 
 feature_testimonials_3:
   - image_path: /assets/images/landing/landing_quotation_3.svg
     alt: "quotation"
-    title: "From the moment I acquired this asset, it has become an invaluable addition to my development toolkit. Having AI Toolbox for only a few months, I have already been able to use it to give new life to old projects, by both prototyping new code and refining existing ones.\n
-
-        The Coding Quality of Life features are a total game-changer. The 'Explain Code' function, in particular, has made navigating new frameworks and assets a breeze, and even unraveling code I wrote a year ago feels less daunting!"
+    title: "It has become an <b>invaluable addition</b> to my development toolkit. Having AI Toolbox for only a few months, I have already been able to use it to give new life to old projects, by both <b>prototyping new code</b> and <b>refining existing ones</b>.\n
+        The Coding Quality of Life features are a total game-changer. The 'Explain Code' function, in particular, has made <b>navigating new frameworks and assets a breeze</b>, and even unraveling code I wrote a year ago feels less daunting!"
     excerpt: — @Swyfft
 
 ---
