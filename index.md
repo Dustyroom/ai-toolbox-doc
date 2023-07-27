@@ -41,12 +41,6 @@ feature_freeform_chat:
     btn_label: "Read More"
     btn_class: "btn--primary"
 
-feature_testimonials_1:
-  - image_path: /assets/images/landing/landing_quotation_3.svg
-    alt: "quotation"
-    title: "The most impressive aspect is how questions raised in the Discord community evolve into new features. With user feedback shaping its development, we've seen the integration of different Al sources like Google Bard, and the inclusion of the new Extended Context models such as GPT-3.5 16k. This real-time evolution is a testament to the asset's commitment to innovation and user-centricity."
-    excerpt: — Swyfft
-
 feature_runtime:
   - image_path: /assets/images/landing/ai_toolbox_runtime_inspector_2.png
     alt: "AI in Runtime"
@@ -90,19 +84,51 @@ feature_misc_things:
     title: "Fix code errors with AI"
     excerpt: 'Ask ChatGPT or Google Bard to search for errors in the code and fix them.'
 
-feature_testimonials_2:
-  - image_path: /assets/images/landing/landing_quotation_2.svg
+feature_testimonials_1:
+  - image_path: /assets/images/landing/landing_quotation_3.svg
     alt: "quotation"
     title: "Al Toolbox has made it easy for me to get stuff done in my project for an amateur game developer. It's very easy to quickly prototype scripts and generate textures for walls or items needed in games. I use it to intergrade other templates and tools together in Unity. It's a great tool set at a affordable price!"
     excerpt: — @CyberDeliaStudios
+
+feature_testimonials_2:
   - image_path: /assets/images/landing/landing_quotation_2.svg
     alt: "quotation"
-    title: "Buy this asset and just forget all the other money-hunters who are releasing their AI tools while not knowing what they are doing."
+    title: "I can't believe how much this asset has changed my development process!"
+    excerpt: — Asset Store User
+  - image_path: /assets/images/landing/landing_quotation_2.svg
+    alt: "quotation"
+    title: "To all my fellow developers, I can't recommend this asset highly enough. It truly has the potential to revolutionize your workflow, bringing unprecedented value to your game development endeavors."
+    excerpt: — Asset Store User
+  - image_path: /assets/images/landing/landing_quotation_2.svg
+    alt: "quotation"
+    title: "The dev is the most helpful person I've met so far and the asset is a huge help to any creator, beginner or advanced."
+    excerpt: — Asset Store User
+  - image_path: /assets/images/landing/landing_quotation_2.svg
+    alt: "quotation"
+    title: "The support from the authors is really really good and for that alone I give asset five stars."
+    excerpt: — Asset Store User
+  - image_path: /assets/images/landing/landing_quotation_2.svg
+    alt: "quotation"
+    title: "The most impressive aspect is how questions raised in the Discord community evolve into new features. With user feedback shaping its development, we've seen the integration of different AI sources like Google Bard, and the inclusion of the new Extended Context models such as GPT-3.5 16k. This real-time evolution is a testament to the asset's commitment to innovation and user-centricity."
     excerpt: — Asset Store User
   - image_path: /assets/images/landing/landing_quotation_2.svg
     alt: "quotation"
     title: "They are continually improving, and constantly ready to help support with any of their other products."
     excerpt: — Asset Store User
+  - image_path: /assets/images/landing/landing_quotation_2.svg
+    alt: "quotation"
+    title: "This Plugin is hands down the best integration of ChatGPT and DALL-E to use in Engine for creation of scripts and images."
+    excerpt: — Asset Store User
+
+feature_testimonials_3:
+  - image_path: /assets/images/landing/landing_quotation_3.svg
+    alt: "quotation"
+    title: "From the moment I acquired this asset, it has become an invaluable addition to my development toolkit. Having AI Toolbox for only a few months, I have already been able to use it to give new life to old projects, by both prototyping new code and refining existing ones.\n
+        The Coding Quality of Life features are a total game-changer. The 'Explain Code' function, in particular, has made navigating new frameworks and assets a breeze, and even unraveling code I wrote a year ago feels less daunting!\n
+        I've also ventured into the realm of AI images and Seamless Texture generation using Dall-E. It's been an exciting journey of prototyping and experimenting to optimize its use in my projects. Admittedly, my prompting skills need a bit of polishing, but I'm already seeing some remarkable results.\n
+        The most impressive aspect is how questions raised in the Discord community evolve into new features. With user feedback shaping its development, we've seen the integration of different AI sources like Google Bard, and the inclusion of the new Extended Context models such as GPT-3.5 16k. This real-time evolution is a testament to the asset's commitment to innovation and user-centricity.\n
+        Moreover, the Discord support community is phenomenal. The wealth of insights that emerge from answers to other users' questions has been a tremendous resource. Even for issues that haven't crossed my path yet, it's been a great way to learn and anticipate potential challenges."
+    excerpt: — @Swyfft
 
 ---
 
@@ -139,15 +165,17 @@ feature_testimonials_2:
 
 {% include feature_row id="feature_freeform_chat" type="center" %}
 
-{% include feature_row id="feature_testimonials_1" type="left" %}
-
 {% include feature_row id="feature_runtime" type="center" %}
 
 {% include feature_row id="feature_bard" type="center" %}
 
 {% include feature_row id="feature_misc_things" %}
 
+{% include feature_row id="feature_testimonials_1" type="left" %}
+
 {% include feature_row id="feature_testimonials_2" %}
+
+{% include feature_row id="feature_testimonials_3" type="right" %}
 
 <div class="buttons-row">
 <a href="https://u3d.as/334o?aid=1101lHzQ"><span class="button-landing-large">Get on Asset Store</span></a>
