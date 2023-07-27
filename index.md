@@ -87,11 +87,19 @@ feature_misc_things:
 feature_testimonials_1:
   - image_path: /assets/images/landing/landing_quotation_3.svg
     alt: "quotation"
-    title: "<b>AI Toolbox has made it easy for me to get stuff done</b> in my project for an amateur game developer.<br><br>It's very easy to quickly prototype scripts and generate textures for walls or items needed in games.
+    title: "<b>AI Toolbox has made it easy for me to get stuff done</b> in my project for an amateur game developer.<br>
+            It's very easy to quickly prototype scripts and generate textures for walls or items needed in games.<br>
             I use it to intergrade other templates and tools together in Unity. It's a great tool set at a affordable price!"
     excerpt: — @CyberDeliaStudios
 
 feature_testimonials_2:
+  - image_path: /assets/images/landing/landing_quotation_3.svg
+    alt: "quotation"
+    title: "<b>It has become an invaluable addition to my development toolkit.</b> Having AI Toolbox for only a few months, I have already been able to use it to give new life to old projects, by both prototyping new code and refining existing ones.<br>
+        The Coding Quality of Life features are a total game-changer. The 'Explain Code' function, in particular, has made navigating new frameworks and assets a breeze, and even unraveling code I wrote a year ago feels less daunting!"
+    excerpt: — @Swyfft
+
+feature_testimonials_3:
   - image_path: /assets/images/landing/landing_quotation_2.svg
     alt: "quotation"
     title: "I can't believe how much this asset has <b>changed my development process!</b>"
@@ -116,13 +124,6 @@ feature_testimonials_2:
     alt: "quotation"
     title: "This Plugin is hands down <b>the best integration</b> of ChatGPT and DALL-E to use in Engine for creation of scripts and images."
     excerpt: — Asset Store User
-
-feature_testimonials_3:
-  - image_path: /assets/images/landing/landing_quotation_3.svg
-    alt: "quotation"
-    title: "<b>It has become an invaluable addition to my development toolkit.</b> Having AI Toolbox for only a few months, I have already been able to use it to give new life to old projects, by both prototyping new code and refining existing ones.<br><br>
-        The Coding Quality of Life features are a total game-changer. The 'Explain Code' function, in particular, has made navigating new frameworks and assets a breeze, and even unraveling code I wrote a year ago feels less daunting!"
-    excerpt: — @Swyfft
 
 ---
 
@@ -167,9 +168,9 @@ feature_testimonials_3:
 
 {% include feature_row id="feature_testimonials_1" type="left" %}
 
-{% include feature_row id="feature_testimonials_3" type="right" %}
+{% include feature_row id="feature_testimonials_2" type="right" %}
 
-{% include feature_row id="feature_testimonials_2" %}
+{% include feature_row id="feature_testimonials_3" %}
 
 
 <div class="buttons-row">
