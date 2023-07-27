@@ -89,7 +89,7 @@ feature_testimonials_1:
     alt: "quotation"
     title: "<b>AI Toolbox has made it easy for me to get stuff done</b> in my project for an amateur game developer.<br>
             It's very easy to quickly prototype scripts and generate textures for walls or items needed in games.<br>
-            I use it to intergrade other templates and tools together in Unity. It's a great tool set at a affordable price!"
+            I use it to integrate other templates and tools together in Unity. It's a great tool set at a affordable price!"
     excerpt: — @CyberDeliaStudios
 
 feature_testimonials_2:
