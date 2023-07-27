@@ -64,9 +64,9 @@ feature_misc_things:
     title: "Boost Productivity"
     excerpt: 'Speed up development with quick script generation.'
 
-- image_path: /assets/images/landing/landing_icon_learn_2.svg
-    title: "Learn to Code"
-    excerpt: 'Understand C# and Unity concepts through generated scripts and freeform chat.'
+  - image_path: /assets/images/landing/landing_icon_learn_2.svg
+      title: "Learn to Code"
+      excerpt: 'Understand C# and Unity concepts through generated scripts and freeform chat.'
 
   - image_path: /assets/images/landing/landing_icon_starting_point_2.svg
     title: "Starting Point"
