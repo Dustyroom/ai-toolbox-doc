@@ -167,9 +167,10 @@ feature_testimonials_3:
 
 {% include feature_row id="feature_testimonials_1" type="left" %}
 
+{% include feature_row id="feature_testimonials_3" type="right" %}
+
 {% include feature_row id="feature_testimonials_2" %}
 
-{% include feature_row id="feature_testimonials_3" type="left" %}
 
 <div class="buttons-row">
 <a href="https://u3d.as/334o?aid=1101lHzQ"><span class="button-landing-large">Get on Asset Store</span></a>
