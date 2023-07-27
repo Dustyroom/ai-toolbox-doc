@@ -120,9 +120,13 @@ feature_testimonials_3:
   - image_path: /assets/images/landing/landing_quotation_3.svg
     alt: "quotation"
     title: "From the moment I acquired this asset, it has become an invaluable addition to my development toolkit. Having AI Toolbox for only a few months, I have already been able to use it to give new life to old projects, by both prototyping new code and refining existing ones.\n
+
         The Coding Quality of Life features are a total game-changer. The 'Explain Code' function, in particular, has made navigating new frameworks and assets a breeze, and even unraveling code I wrote a year ago feels less daunting!\n
+
         I've also ventured into the realm of AI images and Seamless Texture generation using Dall-E. It's been an exciting journey of prototyping and experimenting to optimize its use in my projects. Admittedly, my prompting skills need a bit of polishing, but I'm already seeing some remarkable results.\n
+
         The most impressive aspect is how questions raised in the Discord community evolve into new features. With user feedback shaping its development, we've seen the integration of different AI sources like Google Bard, and the inclusion of the new Extended Context models such as GPT-3.5 16k. This real-time evolution is a testament to the asset's commitment to innovation and user-centricity.\n
+
         Moreover, the Discord support community is phenomenal. The wealth of insights that emerge from answers to other users' questions has been a tremendous resource. Even for issues that haven't crossed my path yet, it's been a great way to learn and anticipate potential challenges."
     excerpt: — @Swyfft
 
