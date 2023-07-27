@@ -87,14 +87,14 @@ feature_misc_things:
 feature_testimonials_1:
   - image_path: /assets/images/landing/landing_quotation_3.svg
     alt: "quotation"
-    title: "AI Toolbox has made it easy for me to <b>get stuff done</b> in my project for an amateur game developer. It's very easy to <b>quickly prototype scripts</b> and <b>generate textures</b> for walls or items needed in games.
+    title: "<b>AI Toolbox has made it easy for me to get stuff done</b> in my project for an amateur game developer.<br><br>It's very easy to quickly prototype scripts and generate textures for walls or items needed in games.
             I use it to intergrade other templates and tools together in Unity. It's a great tool set at a affordable price!"
     excerpt: — @CyberDeliaStudios
 
 feature_testimonials_2:
   - image_path: /assets/images/landing/landing_quotation_2.svg
     alt: "quotation"
-    title: "<b>I can't believe</b> how much this asset has changed my development process!"
+    title: "I can't believe how much this asset has <b>changed my development process!</b>"
     excerpt: — Asset Store User
   - image_path: /assets/images/landing/landing_quotation_2.svg
     alt: "quotation"
@@ -120,8 +120,8 @@ feature_testimonials_2:
 feature_testimonials_3:
   - image_path: /assets/images/landing/landing_quotation_3.svg
     alt: "quotation"
-    title: "It has become an <b>invaluable addition</b> to my development toolkit. Having AI Toolbox for only a few months, I have already been able to use it to give new life to old projects, by both <b>prototyping new code</b> and <b>refining existing ones</b>.\n
-        The Coding Quality of Life features are a total game-changer. The 'Explain Code' function, in particular, has made <b>navigating new frameworks and assets a breeze</b>, and even unraveling code I wrote a year ago feels less daunting!"
+    title: "<b>It has become an invaluable addition to my development toolkit.</b> Having AI Toolbox for only a few months, I have already been able to use it to give new life to old projects, by both prototyping new code and refining existing ones.<br><br>
+        The Coding Quality of Life features are a total game-changer. The 'Explain Code' function, in particular, has made navigating new frameworks and assets a breeze, and even unraveling code I wrote a year ago feels less daunting!"
     excerpt: — @Swyfft
 
 ---
