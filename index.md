@@ -106,15 +106,11 @@ feature_testimonials_3:
     excerpt: — Asset Store User
   - image_path: /assets/images/landing/landing_quotation_2.svg
     alt: "quotation"
-    title: "I can't recommend this asset highly enough. It truly has the potential to <b>revolutionize your workflow</b>, bringing unprecedented value to your game development endeavors."
+    title: "This Plugin is hands down <b>the best integration</b> of ChatGPT and DALL-E to use in Engine for creation of scripts and images."
     excerpt: — Asset Store User
   - image_path: /assets/images/landing/landing_quotation_2.svg
     alt: "quotation"
-    title: "The dev is the most helpful person I've met so far and the asset is a <b>huge help</b> to any creator, beginner or advanced."
-    excerpt: — Asset Store User
-  - image_path: /assets/images/landing/landing_quotation_2.svg
-    alt: "quotation"
-    title: "The <b>support from the authors</b> is really really good and for that alone I give asset five stars."
+    title: "I can't recommend this asset highly enough. It truly has the potential to revolutionize your workflow, bringing <b>unprecedented value</b> to your game development endeavors."
     excerpt: — Asset Store User
   - image_path: /assets/images/landing/landing_quotation_2.svg
     alt: "quotation"
@@ -122,7 +118,11 @@ feature_testimonials_3:
     excerpt: — Asset Store User
   - image_path: /assets/images/landing/landing_quotation_2.svg
     alt: "quotation"
-    title: "This Plugin is hands down <b>the best integration</b> of ChatGPT and DALL-E to use in Engine for creation of scripts and images."
+    title: "The <b>support from the authors</b> is really really good and for that alone I give asset five stars."
+    excerpt: — Asset Store User
+  - image_path: /assets/images/landing/landing_quotation_2.svg
+    alt: "quotation"
+    title: "The dev is the most helpful person I've met so far and the asset is a <b>huge help</b> to any creator, beginner or advanced."
     excerpt: — Asset Store User
 
 ---
