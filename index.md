@@ -159,9 +159,9 @@ feature_testimonials_3:
 </div>
 {% include feature_row %}
 
-{% include feature_row id="feature_freeform_chat" type="center" %}
-
 {% include feature_row id="feature_misc_things" %}
+
+{% include feature_row id="feature_freeform_chat" type="center" %}
 
 {% include feature_row id="feature_runtime" type="center" %}
 
