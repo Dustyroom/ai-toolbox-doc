@@ -60,29 +60,29 @@ feature_bard:
     btn_class: "btn--primary"
 
 feature_misc_things:
-  - image_path: /assets/images/landing/landing_icon_learn_2.svg
-    title: "Learn to Code"
-    excerpt: 'Understand C# and Unity concepts through generated scripts and freeform chat.'
-
   - image_path: /assets/images/landing/landing_icon_boost_productivity_2.svg
     title: "Boost Productivity"
     excerpt: 'Speed up development with quick script generation.'
+
+- image_path: /assets/images/landing/landing_icon_learn_2.svg
+    title: "Learn to Code"
+    excerpt: 'Understand C# and Unity concepts through generated scripts and freeform chat.'
 
   - image_path: /assets/images/landing/landing_icon_starting_point_2.svg
     title: "Starting Point"
     excerpt: 'Already know coding? Start with generated scripts as a base with boilerplate code.'
 
+  - image_path: /assets/images/landing/landing_icon_iterative_development_2.svg
+    title: "Edit Scripts"
+    excerpt: 'Edit any scripts using AI, both human-written and AI-generated.'
+
   - image_path: /assets/images/landing/landing_icon_rapid_prototyping_2.svg
     title: "Rapid Prototyping"
-    excerpt: 'Test ideas and mechanics more efficiently.'
-
-  - image_path: /assets/images/landing/landing_icon_iterative_development_2.svg
-    title: "Iterative Development"
-    excerpt: 'Generate scripts and iterate on them as needed by editing with the AI.'
+    excerpt: 'Test ideas and mechanics quickly with generated scripts.'
 
   - image_path: /assets/images/landing/landing_icon_fix_errors_2.svg
-    title: "Fix code errors with AI"
-    excerpt: 'Ask ChatGPT or Google Bard to search for errors in the code and fix them.'
+    title: "Improve code with AI"
+    excerpt: 'Ask AI to find code errors or inefficiencies and fix them.'
 
 feature_testimonials_1:
   - image_path: /assets/images/landing/landing_quotation_3.svg
@@ -95,7 +95,7 @@ feature_testimonials_1:
 feature_testimonials_2:
   - image_path: /assets/images/landing/landing_quotation_3.svg
     alt: "quotation"
-    title: "<b>It has become an invaluable addition to my development toolkit.</b><br>Having AI Toolbox for only a few months, I have already been able to use it to give new life to old projects, by both prototyping new code and refining existing ones.<br>
+    title: "<b>It has become an invaluable addition to my toolkit.</b><br>Having AI Toolbox for only a few months, I have already been able to use it to give new life to old projects, by both prototyping new code and refining existing ones.<br>
         The Coding Quality of Life features are a total game-changer. The 'Explain Code' function, in particular, has made navigating new frameworks and assets a breeze, and even unraveling code I wrote a year ago feels less daunting!"
     excerpt: — @Swyfft
 
