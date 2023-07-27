@@ -95,7 +95,7 @@ feature_testimonials_1:
 feature_testimonials_2:
   - image_path: /assets/images/landing/landing_quotation_3.svg
     alt: "quotation"
-    title: "<b>It has become an invaluable addition to my development toolkit.</b> Having AI Toolbox for only a few months, I have already been able to use it to give new life to old projects, by both prototyping new code and refining existing ones.<br>
+    title: "<b>It has become an invaluable addition to my development toolkit.</b><br>Having AI Toolbox for only a few months, I have already been able to use it to give new life to old projects, by both prototyping new code and refining existing ones.<br>
         The Coding Quality of Life features are a total game-changer. The 'Explain Code' function, in particular, has made navigating new frameworks and assets a breeze, and even unraveling code I wrote a year ago feels less daunting!"
     excerpt: — @Swyfft
 
