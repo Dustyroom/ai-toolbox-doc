@@ -97,7 +97,7 @@ feature_testimonials_2:
     excerpt: — Asset Store User
   - image_path: /assets/images/landing/landing_quotation_2.svg
     alt: "quotation"
-    title: "To all my fellow developers, I can't recommend this asset highly enough. It truly has the potential to revolutionize your workflow, bringing unprecedented value to your game development endeavors."
+    title: "I can't recommend this asset highly enough. It truly has the potential to revolutionize your workflow, bringing unprecedented value to your game development endeavors."
     excerpt: — Asset Store User
   - image_path: /assets/images/landing/landing_quotation_2.svg
     alt: "quotation"
@@ -106,10 +106,6 @@ feature_testimonials_2:
   - image_path: /assets/images/landing/landing_quotation_2.svg
     alt: "quotation"
     title: "The support from the authors is really really good and for that alone I give asset five stars."
-    excerpt: — Asset Store User
-  - image_path: /assets/images/landing/landing_quotation_2.svg
-    alt: "quotation"
-    title: "The most impressive aspect is how questions raised in the Discord community evolve into new features. With user feedback shaping its development, we've seen the integration of different AI sources like Google Bard, and the inclusion of the new Extended Context models such as GPT-3.5 16k. This real-time evolution is a testament to the asset's commitment to innovation and user-centricity."
     excerpt: — Asset Store User
   - image_path: /assets/images/landing/landing_quotation_2.svg
     alt: "quotation"
@@ -165,17 +161,17 @@ feature_testimonials_3:
 
 {% include feature_row id="feature_freeform_chat" type="center" %}
 
+{% include feature_row id="feature_misc_things" %}
+
 {% include feature_row id="feature_runtime" type="center" %}
 
 {% include feature_row id="feature_bard" type="center" %}
-
-{% include feature_row id="feature_misc_things" %}
 
 {% include feature_row id="feature_testimonials_1" type="left" %}
 
 {% include feature_row id="feature_testimonials_2" %}
 
-{% include feature_row id="feature_testimonials_3" type="right" %}
+{% include feature_row id="feature_testimonials_3" type="left" %}
 
 <div class="buttons-row">
 <a href="https://u3d.as/334o?aid=1101lHzQ"><span class="button-landing-large">Get on Asset Store</span></a>
