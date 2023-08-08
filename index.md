@@ -4,7 +4,7 @@ permalink: /
 header:
   overlay_color: "#351d59"
   overlay_filter: "0.0"
-  overlay_image: /assets/images/landing/landing-prompt-code-result-1.png
+  overlay_image: /assets/images/landing/landing-banner-1.png
   actions:
     - label: "Get on Unity Asset Store"
       url: "https://u3d.as/334o?aid=1101lHzQ"
