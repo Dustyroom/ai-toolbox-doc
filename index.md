@@ -8,6 +8,8 @@ header:
   actions:
     - label: "Get on Unity Asset Store"
       url: "https://u3d.as/334o?aid=1101lHzQ"
+excerpt: "ChatGPT, DALL•E and Google Gemini inside your Unity project."
+intro:
 
 feature_video_1:
   #- title: "Let AI do the heavy lifting for you."
@@ -47,7 +49,7 @@ feature_runtime:
     btn_label: "Read More"
     btn_class: "btn--primary"
 
-feature_bard:
+feature_gemini:
   - image_path: /assets/images/landing/google_gemini_logo_2.svg
     alt: "Google Gemini integration"
     title: "Google Gemini in Unity"
@@ -161,7 +163,7 @@ feature_testimonials_3:
 
 {% include feature_row id="feature_runtime" type="center" %}
 
-{% include feature_row id="feature_bard" type="center" %}
+{% include feature_row id="feature_gemini" type="center" %}
 
 {% include feature_row id="feature_testimonials_1" type="left" %}
 
