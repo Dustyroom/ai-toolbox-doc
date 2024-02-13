@@ -17,8 +17,8 @@ docs:
         url: /overview/
       - title: Installation
         url: /installation/
-      - title: Google Bard Setup
-        url: /bard-set-up/
+      - title: Google Gemini Setup
+        url: /gemini-set-up/
       - title: Getting Started
         url: /getting-started/
       - title: Examples

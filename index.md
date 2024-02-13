@@ -8,7 +8,7 @@ header:
   actions:
     - label: "Get on Unity Asset Store"
       url: "https://u3d.as/334o?aid=1101lHzQ"
-excerpt: "ChatGPT, DALL•E and Google Bard inside your Unity project."
+excerpt: "ChatGPT, DALL•E and Google Gemini inside your Unity project."
 intro:
 #  - excerpt: 'Use the power of OpenAI GhatGPT in the Unity Editor and in your shipped games. It allows you to generate and edit C# scripts, seamlessly tiling images, shaders and UI documents from text descriptions, operate on new and existing scripts, freely chat with AI — right in your project.'
 
@@ -50,12 +50,12 @@ feature_runtime:
     btn_label: "Read More"
     btn_class: "btn--primary"
 
-feature_bard:
-  - image_path: /assets/images/landing/google_bard_logo_2.svg
-    alt: "Google Bard integration"
-    title: "Google Bard in Unity"
-    excerpt: 'Google Bard intgration expands the palette of the AI tools available in your Unity project.'
-    url: "/getting-started/#google-bard"
+feature_gemini:
+  - image_path: /assets/images/landing/google_gemini_logo_2.svg
+    alt: "Google Gemini integration"
+    title: "Google Gemini in Unity"
+    excerpt: 'Google Gemini intgration expands the palette of the AI tools available in your Unity project.'
+    url: "/getting-started/#google-gemini"
     btn_label: "Read More"
     btn_class: "btn--primary"
 
@@ -164,7 +164,7 @@ feature_testimonials_3:
 
 {% include feature_row id="feature_runtime" type="center" %}
 
-{% include feature_row id="feature_bard" type="center" %}
+{% include feature_row id="gemini" type="center" %}
 
 {% include feature_row id="feature_testimonials_1" type="left" %}
 
