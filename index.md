@@ -8,7 +8,7 @@ header:
   actions:
     - label: "Get on Unity Asset Store"
       url: "https://u3d.as/334o?aid=1101lHzQ"
-intro: "ChatGPT, DALL•E and Google Gemini inside your Unity project."
+  excerpt: "ChatGPT, DALL•E and Google Gemini inside your Unity project."
 
 feature_video_1:
   #- title: "Let AI do the heavy lifting for you."
