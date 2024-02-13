@@ -124,11 +124,6 @@ feature_testimonials_3:
 
 ---
 
-<!--
-exc: "ChatGPT, DALL•E and Google Gemini inside your Unity project."
-exc: 'Use the power of OpenAI GhatGPT in the Unity Editor and in your shipped games. It allows you to generate and edit C# scripts, seamlessly tiling images, shaders and UI documents from text descriptions, operate on new and existing scripts, freely chat with AI — right in your project.'
--->
-
 {% include feature_row id="intro" %}{: .fw-noline}
 <p class="landing-paragraph-center">
 <span class="landing-heading-fancy">Build games in faster, easier ways using AI.</span>
