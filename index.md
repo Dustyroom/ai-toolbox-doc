@@ -8,8 +8,9 @@ header:
   actions:
     - label: "Get on Unity Asset Store"
       url: "https://u3d.as/334o?aid=1101lHzQ"
-# excerpt: "ChatGPT, DALL•E and Google Gemini inside your Unity project."
-#  - excerpt: 'Use the power of OpenAI GhatGPT in the Unity Editor and in your shipped games. It allows you to generate and edit C# scripts, seamlessly tiling images, shaders and UI documents from text descriptions, operate on new and existing scripts, freely chat with AI — right in your project.'
+# exc: "ChatGPT, DALL•E and Google Gemini inside your Unity project."
+# exc: 'Use the power of OpenAI GhatGPT in the Unity Editor and in your shipped games. It allows you to generate and edit C# scripts, seamlessly tiling images, shaders and UI documents from text descriptions, operate on new and existing scripts, freely chat with AI — right in your project.'
+
 intro:
 
 feature_video_1:
@@ -42,6 +43,15 @@ feature_freeform_chat:
     btn_class: "btn--primary"
 
 feature_runtime:
+  - image_path: /assets/images/landing/ai_toolbox_runtime_inspector_2.png
+    alt: "AI in Runtime"
+    title: "Use AI in the shipped games, securely."
+    excerpt: 'With AI Toolbox you can securely use and remotely control AI in shipped games. It can be used for anything, from NPC dialogue and a town name to localization and user input validation.'
+    url: "/runtime/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+
+feature_bard:
   - image_path: /assets/images/landing/google_gemini_logo_2.svg
     alt: "Google Gemini integration"
     title: "Google Gemini in Unity"
@@ -155,7 +165,7 @@ feature_testimonials_3:
 
 {% include feature_row id="feature_runtime" type="center" %}
 
-{% include feature_row id="feature_gemini" type="center" %}
+{% include feature_row id="feature_bard" type="center" %}
 
 {% include feature_row id="feature_testimonials_1" type="left" %}
 
