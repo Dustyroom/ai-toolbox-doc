@@ -8,8 +8,6 @@ header:
   actions:
     - label: "Get on Unity Asset Store"
       url: "https://u3d.as/334o?aid=1101lHzQ"
-# exc: "ChatGPT, DALL•E and Google Gemini inside your Unity project."
-# exc: 'Use the power of OpenAI GhatGPT in the Unity Editor and in your shipped games. It allows you to generate and edit C# scripts, seamlessly tiling images, shaders and UI documents from text descriptions, operate on new and existing scripts, freely chat with AI — right in your project.'
 
 intro:
 
@@ -127,6 +125,11 @@ feature_testimonials_3:
     excerpt: — Asset Store User
 
 ---
+
+<!--
+exc: "ChatGPT, DALL•E and Google Gemini inside your Unity project."
+exc: 'Use the power of OpenAI GhatGPT in the Unity Editor and in your shipped games. It allows you to generate and edit C# scripts, seamlessly tiling images, shaders and UI documents from text descriptions, operate on new and existing scripts, freely chat with AI — right in your project.'
+-->
 
 {% include feature_row id="intro" %}{: .fw-noline}
 <p class="landing-paragraph-center">
