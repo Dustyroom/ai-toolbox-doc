@@ -17,13 +17,12 @@ docs:
         url: /overview/
       - title: Installation
         url: /installation/
-        children:
-        - title: OpenAI Setup
-          url: /openai-set-up/
-        - title: Microsoft Azure Setup
-          url: /azure-set-up/
-        - title: Google Gemini Setup
-          url: /gemini-set-up/
+      - title: "\tOpenAI Setup"
+        url: /openai-set-up/
+      - title: "\tMicrosoft Azure Setup"
+        url: /azure-set-up/
+      - title: "\tGoogle Gemini Setup"
+        url: /gemini-set-up/
       - title: Getting Started
         url: /getting-started/
       - title: Examples
