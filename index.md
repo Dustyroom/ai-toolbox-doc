@@ -53,7 +53,16 @@ feature_gemini:
     alt: "Google Gemini integration"
     title: "Google Gemini in Unity"
     excerpt: 'Google Gemini intgration expands the palette of the AI tools available in your Unity project.'
-    url: "/getting-started/#google-gemini"
+    url: "/gemini-set-up/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+
+feature_azure:
+  - image_path: /assets/images/landing/azure_logo.svg
+    alt: "Microsoft Azure integration"
+    title: "Azure in Unity"
+    excerpt: 'Azure OpenAI makes ChatGPT even more accessible.'
+    url: "/azure-set-up/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 
@@ -163,6 +172,8 @@ feature_testimonials_3:
 {% include feature_row id="feature_runtime" type="center" %}
 
 {% include feature_row id="feature_gemini" type="center" %}
+
+{% include feature_row id="feature_azure" type="center" %}
 
 {% include feature_row id="feature_testimonials_1" type="left" %}
 
