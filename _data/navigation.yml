@@ -17,6 +17,8 @@ docs:
         url: /overview/
       - title: Installation
         url: /installation/
+      - title: OpenAI Setup
+        url: /openai-set-up/
       - title: Microsoft Azure Setup
         url: /azure-set-up/
       - title: Google Gemini Setup
