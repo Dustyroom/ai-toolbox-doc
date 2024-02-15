@@ -60,8 +60,8 @@ feature_gemini:
 feature_azure:
   - image_path: /assets/images/landing/azure_logo.svg
     alt: "Microsoft Azure integration"
-    title: "Azure in Unity"
-    excerpt: 'Azure OpenAI makes ChatGPT even more accessible.'
+    title: "ChatGPT from Microsoft Azure"
+    excerpt: 'Azure OpenAI service makes ChatGPT even more accessible.'
     url: "/azure-set-up/"
     btn_label: "Read More"
     btn_class: "btn--primary"
