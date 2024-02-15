@@ -17,6 +17,8 @@ docs:
         url: /overview/
       - title: Installation
         url: /installation/
+      - title: Microsoft Azure Setup
+        url: /azure-set-up/
       - title: Google Gemini Setup
         url: /gemini-set-up/
       - title: Getting Started
