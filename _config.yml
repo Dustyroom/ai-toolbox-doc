@@ -19,6 +19,17 @@ analytics:
   google:
     tracking_id: "G-FX4K2YZZE0"
 
+repository  : "Dustyroom/ai-toolbox-doc"
+comments:
+  provider: "giscus"
+  giscus:
+    repo_id              : "R_kgDOJQ5ldw"
+    category_name        : "Announcements"
+    category_id          : "DIC_kwDOJQ5ld84CdR6a"
+    discussion_term      : "pathname" # "pathname" (default), "url", "title", "og:title"
+    reactions_enabled    : '1'
+    theme                : "noborder_light"
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
@@ -94,7 +105,7 @@ defaults:
       read_time: false
       author_profile: false
       share: false
-      comments: false
+      comments: true
       toc: true
       toc_sticky: true
       # classes: wide
