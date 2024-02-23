@@ -53,15 +53,6 @@ feaure_runtime:
     title: "Text To Speech and Speech To Text."
     excerpt: 'Read and understand user input and transcribe generated text or voice.'
 
-# feature_runtime:
-#   - image_path: /assets/images/landing/ai_toolbox_runtime_inspector_2.png
-#     alt: "AI in Runtime"
-#     title: "Use AI in the shipped games, securely."
-#     excerpt: 'With AI Toolbox you can securely use and remotely control AI in shipped games. It can be used for anything, from NPC dialogue and a town name to localization and user input validation.'
-#     url: "/runtime/"
-#     btn_label: "Read More"
-#     btn_class: "btn--primary"
-
 feature_gemini:
   - image_path: /assets/images/landing/google_gemini_logo_2.svg
     alt: "Google Gemini integration"
