@@ -188,7 +188,7 @@ feature_testimonials_3:
 
 {% include feature_row id="feature_runtime" type="four" %}
 
-{% include feature_row id="feature_gemini" type="center" %}
+{% include feature_row id="feature_gemini" type="center" %}{: .fw-small-image}
 
 {% include feature_row id="feature_azure" type="center" %}{: .fw-small-image}
 
