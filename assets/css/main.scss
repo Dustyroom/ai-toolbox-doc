@@ -202,5 +202,6 @@ html {
 
   div.feature__item--four {
     width: 25%;
+    @extend .feature__item;
   }
 }
