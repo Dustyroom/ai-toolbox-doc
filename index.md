@@ -62,7 +62,7 @@ feature_runtime_2:
     btn_class: "btn--primary"
   - image_path: /assets/images/landing/landing_icon_speech_text.svg
     title: "Speech To Text"
-    excerpt: 'Transcribe audio speech recordings to text.'
+    excerpt: 'Transcribe audio speech recordings to text and translate many languages into English using Whisper'
     url: "/speech-to-text/"
     btn_label: "Read More"
     btn_class: "btn--primary"
