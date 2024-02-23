@@ -190,12 +190,7 @@ feature_testimonials_3:
 
 {% include feature_row id="feature_freeform_chat" type="center" %}
 
-<div class="grid__wrapper">
-  {% for post in site.posts limit:4 %}
-    {% include feature_row id="feature_runtime_1" type="grid" %}
-  {% endfor %}
-</div>
-
+{% include feature_row id="feature_runtime_1" type="grid" %}
 
 {% include feature_row id="feature_runtime_2" %}
 
