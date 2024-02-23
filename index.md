@@ -42,7 +42,7 @@ feature_freeform_chat:
 feature_runtime:
   - image_path: /assets/images/landing/landing_icon_dialogue.svg
     title: "Use AI in the shipped games, securely"
-    excerpt: 'With AI Toolbox you can securely use and remotely control AI in shipped games. It can be used for anything, from NPC dialogue and a town name to localization and user input validation.'
+    excerpt: '**Securely use ChatGPT in games.** Generate NPC dialogue, town names, item descriptions, and more.'
     url: "/runtime/"
     btn_label: "Read More"
     btn_class: "btn--primary"
@@ -190,7 +190,7 @@ feature_testimonials_3:
 
 {% include feature_row id="feature_gemini" type="center" %}
 
-{% include feature_row id="feature_azure" type="center" %}
+{% include feature_row id="feature_azure" type="center" %}{: .fw-small-image}
 
 {% include feature_row id="feature_testimonials_1" type="left" %}
 

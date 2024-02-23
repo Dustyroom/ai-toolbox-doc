@@ -200,6 +200,10 @@ html {
     margin-bottom: unset;
   }
 
+  div.feature__wrapper.fw-small-image img {
+    width: 40%;
+  }
+
   div.feature__item--four {
     width: 24%;
     display: inline-flex;
