@@ -39,7 +39,7 @@ feature_freeform_chat:
     btn_label: "Read More"
     btn_class: "btn--primary"
 
-feature_runtime_1:
+feature_runtime:
   - image_path: /assets/images/landing/landing_icon_dialogue.svg
     title: "Use AI in the shipped games, securely"
     excerpt: 'With AI Toolbox you can securely use and remotely control AI in shipped games. It can be used for anything, from NPC dialogue and a town name to localization and user input validation.'
@@ -52,8 +52,6 @@ feature_runtime_1:
     url: "/moderation/"
     btn_label: "Read More"
     btn_class: "btn--primary"
-
-feature_runtime_2:
   - image_path: /assets/images/landing/landing_icon_text_speech.svg
     title: "Text To Speech"
     excerpt: 'Convert text to audio.'
@@ -188,9 +186,7 @@ feature_testimonials_3:
 
 {% include feature_row id="feature_freeform_chat" type="center" %}
 
-{% include feature_row id="feature_runtime_1" type="four" %}
-
-{% include feature_row id="feature_runtime_2" type="four" %}
+{% include feature_row id="feature_runtime" type="four" %}
 
 {% include feature_row id="feature_gemini" type="center" %}
 
