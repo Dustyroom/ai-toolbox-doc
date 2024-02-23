@@ -39,7 +39,7 @@ feature_freeform_chat:
     btn_label: "Read More"
     btn_class: "btn--primary"
 
-feaure_runtime:
+feature_runtime:
   - image_path: /assets/images/landing/landing_icon_dialogue.svg
     title: "Use AI in the shipped games, securely"
     excerpt: 'With AI Toolbox you can securely use and remotely control AI in shipped games. It can be used for anything, from NPC dialogue and a town name to localization and user input validation.'
