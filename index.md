@@ -48,19 +48,19 @@ feature_runtime:
     btn_class: "btn--primary"
   - image_path: /assets/images/landing/landing_icon_moderation.svg
     title: "Moderate user-generated content"
-    excerpt: 'Filter out bad words and inappropriate content from user-generated text in your project. Dictionaries are good but AI is much more flexible and context-aware.'
+    excerpt: '**Filter out bad words and inappropriate content** from user-generated text in your project. Dictionaries are good but AI is much more flexible and context-aware.'
     url: "/moderation/"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/landing/landing_icon_text_speech.svg
     title: "Text To Speech"
-    excerpt: 'Convert text to audio.'
+    excerpt: '**Convert text to audio** in lots of languages. Use it for NPC dialogue, tutorials, and accessibility features.'
     url: "/text-to-speech/"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/landing/landing_icon_speech_text.svg
     title: "Speech To Text"
-    excerpt: 'Transcribe audio speech recordings to text and translate many languages into English using Whisper'
+    excerpt: '**Transcribe audio speech to text** in lots of languages. Use it for voice commands, user input, and accessibility features.'
     url: "/speech-to-text/"
     btn_label: "Read More"
     btn_class: "btn--primary"
