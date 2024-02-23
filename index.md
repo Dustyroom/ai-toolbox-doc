@@ -56,9 +56,12 @@ feature_runtime:
   
   - image_path: /assets/images/landing/landing_icon_text-speech.svg
     title: "Text To Speech and Speech To Text"
-    excerpt: 'Convert speech to text and transcribe text or voice.'
+    excerpt: 'Convert text to audio and transcribe voice to text.'
     url: "/tts/"
-    btn_label: "Read More"
+    btn_label: "Text To Speech"
+    btn_class: "btn--primary"
+    url: "/stt/"
+    btn_label: "Speech To Text"
     btn_class: "btn--primary"
 
 feature_gemini:
