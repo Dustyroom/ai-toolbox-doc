@@ -44,14 +44,7 @@ feaure_runtime:
     alt: "dialogue"
     title: "Use AI in the shipped games, securely."
     excerpt: 'With AI Toolbox you can securely use and remotely control AI in shipped games. It can be used for anything, from NPC dialogue and a town name to localization and user input validation.'
-  - image_path: /assets/images/landing/landing_icon_moderation.svg
-    alt: "moderation"
-    title: "Moderate user-generated content."
-    excerpt: 'Filter out bad words and inappropriate content from user-generated text in your project.'
-  - image_path: landing_icon_text-speech.svg
-    alt: "text-speech"
-    title: "Text To Speech and Speech To Text."
-    excerpt: 'Read and understand user input and transcribe generated text or voice.'
+ 
 
 feature_gemini:
   - image_path: /assets/images/landing/google_gemini_logo_2.svg
