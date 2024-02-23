@@ -53,6 +53,20 @@ feature_runtime_1:
     url: "/moderation/"
     btn_label: "Read More"
     btn_class: "btn--primary"
+  
+  - image_path: /assets/images/landing/landing_icon_text_speech.svg
+    title: "Text To Speech"
+    excerpt: 'Convert text to audio and transcribe voice to text.'
+    url: "/text-to-speech/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+
+  - image_path: /assets/images/landing/landing_icon_speech_text.svg
+    title: "Speech To Text"
+    excerpt: 'Convert speech to text and transcribe audio to text.'
+    url: "/speech-to-text/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 
 feature_runtime_2:
   - image_path: /assets/images/landing/landing_icon_text_speech.svg
