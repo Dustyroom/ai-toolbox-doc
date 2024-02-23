@@ -39,7 +39,7 @@ feature_freeform_chat:
     btn_label: "Read More"
     btn_class: "btn--primary"
 
-feature_runtime:
+feature_runtime_1:
   - image_path: /assets/images/landing/landing_icon_dialogue.svg
     title: "Use AI in the shipped games, securely"
     excerpt: 'With AI Toolbox you can securely use and remotely control AI in shipped games. It can be used for anything, from NPC dialogue and a town name to localization and user input validation.'
@@ -54,6 +54,7 @@ feature_runtime:
     btn_label: "Read More"
     btn_class: "btn--primary"
 
+feature_runtime_2:
   - image_path: /assets/images/landing/landing_icon_text-speech.svg
     title: "Text To Speech"
     excerpt: 'Convert text to audio and transcribe voice to text.'
@@ -61,11 +62,11 @@ feature_runtime:
     btn_label: "Text To Speech"
     btn_class: "btn--primary"
 
-  - image_path: /assets/images/landing/landing_icon_text-speech.svg
-    title: "Text To Speech"
-    excerpt: 'Convert text to audio and transcribe voice to text.'
-    url: "/text-to-speech/"
-    btn_label: "Text To Speech"
+  - image_path: /assets/images/landing/landing_icon_speech-text.svg
+    title: "Speech To Text"
+    excerpt: 'Convert speech to text and transcribe audio to text.'
+    url: "/speech-to-text/"
+    btn_label: "Speech To Text"
     btn_class: "btn--primary"
 
 feature_gemini:
@@ -189,7 +190,9 @@ feature_testimonials_3:
 
 {% include feature_row id="feature_freeform_chat" type="center" %}
 
-{% include feature_row id="feature_runtime" %}
+{% include feature_row id="feature_runtime_1" %}
+
+{% include feature_row id="feature_runtime_2" %}
 
 {% include feature_row id="feature_gemini" type="center" %}
 
