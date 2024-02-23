@@ -68,21 +68,6 @@ feature_runtime_1:
     btn_label: "Read More"
     btn_class: "btn--primary"
 
-feature_runtime_2:
-  - image_path: /assets/images/landing/landing_icon_text_speech.svg
-    title: "Text To Speech"
-    excerpt: 'Convert text to audio and transcribe voice to text.'
-    url: "/text-to-speech/"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-
-  - image_path: /assets/images/landing/landing_icon_speech_text.svg
-    title: "Speech To Text"
-    excerpt: 'Convert speech to text and transcribe audio to text.'
-    url: "/speech-to-text/"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-
 feature_gemini:
   - image_path: /assets/images/landing/google_gemini_logo_2.svg
     alt: "Google Gemini integration"
@@ -205,8 +190,6 @@ feature_testimonials_3:
 {% include feature_row id="feature_freeform_chat" type="center" %}
 
 {% include feature_row id="feature_runtime_1" type="grid" %}
-
-{% include feature_row id="feature_runtime_2" %}
 
 {% include feature_row id="feature_gemini" type="center" %}
 
