@@ -46,14 +46,21 @@ feature_runtime:
     url: "/runtime/"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  
+
   - image_path: /assets/images/landing/landing_icon_moderation.svg
     title: "Moderate user-generated content"
     excerpt: 'Filter out bad words and inappropriate content from user-generated text in your project.'
     url: "/moderation/"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  
+
+  - image_path: /assets/images/landing/landing_icon_text-speech.svg
+    title: "Text To Speech"
+    excerpt: 'Convert text to audio and transcribe voice to text.'
+    url: "/text-to-speech/"
+    btn_label: "Text To Speech"
+    btn_class: "btn--primary"
+
   - image_path: /assets/images/landing/landing_icon_text-speech.svg
     title: "Text To Speech"
     excerpt: 'Convert text to audio and transcribe voice to text.'
