@@ -190,9 +190,9 @@ feature_testimonials_3:
 
 {% include feature_row id="feature_freeform_chat" type="center" %}
 
-{% include feature_row id="feature_runtime_1" type="center" %}
+{% include feature_row id="feature_runtime_1" %}
 
-{% include feature_row id="feature_runtime_2" type="center" %}
+{% include feature_row id="feature_runtime_2" %}
 
 {% include feature_row id="feature_gemini" type="center" %}
 
