@@ -39,6 +39,41 @@ feature_freeform_chat:
     btn_label: "Read More"
     btn_class: "btn--primary"
 
+<div class="feature__wrapper">
+
+  {% for f in site.posts limit:3 %}
+  feature_runtime_1:
+  - image_path: /assets/images/landing/landing_icon_dialogue.svg
+    title: "Use AI in the shipped games, securely"
+    excerpt: 'With AI Toolbox you can securely use and remotely control AI in shipped games. It can be used for anything, from NPC dialogue and a town name to localization and user input validation.'
+    url: "/runtime/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+
+  - image_path: /assets/images/landing/landing_icon_moderation.svg
+    title: "Moderate user-generated content"
+    excerpt: 'Filter out bad words and inappropriate content from user-generated text in your project.'
+    url: "/moderation/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+
+  - image_path: /assets/images/landing/landing_icon_text_speech.svg
+    title: "Text To Speech"
+    excerpt: 'Convert text to audio and transcribe voice to text.'
+    url: "/text-to-speech/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+
+  - image_path: /assets/images/landing/landing_icon_speech_text.svg
+    title: "Speech To Text"
+    excerpt: 'Convert speech to text and transcribe audio to text.'
+    url: "/speech-to-text/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+  {% endfor %}
+
+</div>
+
 feature_runtime_1:
   - image_path: /assets/images/landing/landing_icon_dialogue.svg
     title: "Use AI in the shipped games, securely"
@@ -59,14 +94,14 @@ feature_runtime_2:
     title: "Text To Speech"
     excerpt: 'Convert text to audio and transcribe voice to text.'
     url: "/text-to-speech/"
-    btn_label: "Text To Speech"
+    btn_label: "Read More"
     btn_class: "btn--primary"
 
   - image_path: /assets/images/landing/landing_icon_speech_text.svg
     title: "Speech To Text"
     excerpt: 'Convert speech to text and transcribe audio to text.'
     url: "/speech-to-text/"
-    btn_label: "Speech To Text"
+    btn_label: "Read More"
     btn_class: "btn--primary"
 
 feature_gemini:
