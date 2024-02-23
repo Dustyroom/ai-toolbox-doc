@@ -48,7 +48,7 @@ feature_runtime:
     title: "Moderate user-generated content"
     excerpt: 'Filter out bad words and inappropriate content from user-generated text in your project.'
   
-  - image_path: landing_icon_text-speech.svg
+  - image_path: /assets/images/landing/landing_icon_text-speech.svg
     title: "Text To Speech and Speech To Text"
     excerpt: 'Read and understand user input and transcribe generated text or voice.'
 
