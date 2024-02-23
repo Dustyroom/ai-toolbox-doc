@@ -41,26 +41,30 @@ feature_freeform_chat:
 
 feature_runtime:
   - image_path: /assets/images/landing/landing_icon_dialogue.svg
-    title: "Use AI in the shipped games, securely"
+    title: "Use AI in the <b>shipped</b> games, securely"
     excerpt: 'With AI Toolbox you can securely use and remotely control AI in shipped games. It can be used for anything, from NPC dialogue and a town name to localization and user input validation.'
     url: "/runtime/"
     btn_label: "Read More"
     btn_class: "btn--primary"
   
   - image_path: /assets/images/landing/landing_icon_moderation.svg
-    title: "Moderate user-generated content"
+    title: "<b>Moderate</b> user-generated content"
     excerpt: 'Filter out bad words and inappropriate content from user-generated text in your project.'
     url: "/moderation/"
     btn_label: "Read More"
     btn_class: "btn--primary"
   
   - image_path: /assets/images/landing/landing_icon_text-speech.svg
-    title: "Text To Speech and Speech To Text"
+    title: "Text To Speech"
     excerpt: 'Convert text to audio and transcribe voice to text.'
-    url: "/tts/"
+    url: "/text-to-speech/"
     btn_label: "Text To Speech"
     btn_class: "btn--primary"
-    url: "/stt/"
+
+- image_path: /assets/images/landing/landing_icon_text-speech.svg
+    title: "<b>Speech To Text</b> (Whisper)"
+    excerpt: 'Convert text to audio and transcribe voice to text.'
+    url: "/speech-to-text/"
     btn_label: "Speech To Text"
     btn_class: "btn--primary"
 
