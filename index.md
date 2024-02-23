@@ -53,7 +53,8 @@ feature_runtime_1:
     url: "/moderation/"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  
+
+feature_runtime_2:
   - image_path: /assets/images/landing/landing_icon_text_speech.svg
     title: "Text To Speech"
     excerpt: 'Convert text to audio and transcribe voice to text.'
@@ -189,7 +190,9 @@ feature_testimonials_3:
 
 {% include feature_row id="feature_freeform_chat" type="center" %}
 
-{% include feature_row id="feature_runtime_1" type="grid" %}
+{% include feature_row id="feature_runtime_1" %}
+
+{% include feature_row id="feature_runtime_2" %}
 
 {% include feature_row id="feature_gemini" type="center" %}
 
