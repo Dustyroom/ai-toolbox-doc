@@ -43,7 +43,7 @@ feature_runtime:
   - image_path: /assets/images/landing/landing_icon_dialogue.svg
     title: "Use AI in the shipped games, securely"
     excerpt: '**Securely use ChatGPT in games.** Generate NPC dialogue, town names, item descriptions, and more.'
-    url: "/runtime/"
+    url: "/chatgpt-runtime/"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/landing/landing_icon_moderation.svg

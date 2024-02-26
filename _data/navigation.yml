@@ -32,7 +32,13 @@ docs:
   - title: Runtime Usage
     children:
       - title: ChatGPT
-        url: /runtime/
+        url: /chatgpt-runtime/
+      - title: Moderation
+        url: /moderation/
+      - title: Text-To-Speech
+        url: /text-to-speech/
+      - title: Speech-To-Text
+        url: /speech-to-text/
   - title: Help
     children:
       - title: How To Write Prompts

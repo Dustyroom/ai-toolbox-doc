@@ -44,7 +44,7 @@ feature_runtime:
     alt: "AI in Runtime"
     title: "Use AI in the shipped games, securely."
     excerpt: 'With AI Toolbox you can securely use and remotely control AI in shipped games. It can be used for anything, from NPC dialogue and a town name to localization and user input validation.'
-    url: "/runtime/"
+    url: "/chatgpt-runtime/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 
