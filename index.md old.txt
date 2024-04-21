@@ -35,7 +35,7 @@ feature_freeform_chat:
     alt: "placeholder image 2"
     title: "Freeform chat with AI"
     excerpt: 'Chat with AI in the Unity Editor about anything — ask it to explain code, where to find things in Unity, learn a delicious taco recipe.'
-    url: "/getting-started/#chat-with-ai"
+    url: "/chat/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 

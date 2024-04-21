@@ -19,6 +19,8 @@ docs:
         url: /installation/
       - title: Getting Started
         url: /getting-started/
+      - title: Chat with AI
+        url: /chat/
       - title: Examples
         url: /examples/
   - title: AI Backends
