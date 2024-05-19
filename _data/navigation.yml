@@ -35,6 +35,8 @@ docs:
     children:
       - title: ChatGPT
         url: /chatgpt-runtime/
+      - title: Gemini
+        url: /gemini-runtime/
       - title: Moderation
         url: /moderation/
       - title: Text-To-Speech
