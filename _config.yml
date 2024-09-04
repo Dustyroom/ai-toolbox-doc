@@ -14,6 +14,9 @@ twitter_username: _dstrm
 minimal_mistakes_skin: air
 search: true
 
+# Misc often used strings
+dalle: "DALL·E"
+
 analytics:
   provider: "google-gtag"
   google:
