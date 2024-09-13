@@ -37,6 +37,8 @@ docs:
         url: /chatgpt-runtime/
       - title: Gemini
         url: /gemini-runtime/
+      - title: Image Generation
+        url: /dalle-runtime/
       - title: Moderation
         url: /moderation/
       - title: Text-To-Speech
