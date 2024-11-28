@@ -31,6 +31,8 @@ docs:
         url: /azure-set-up/
       - title: Google Gemini
         url: /gemini-set-up/
+      - title: LLMs
+        url: /llm-set-up/
   - title: Runtime Usage
     children:
       - title: ChatGPT
