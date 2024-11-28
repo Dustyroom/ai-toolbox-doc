@@ -83,6 +83,15 @@ feature_azure:
     btn_label: "Read More"
     btn_class: "btn--primary"
 
+feature_llm:
+  - image_path: /assets/images/landing/landing_icon_llm.svg
+    alt: "LLM integration"
+    title: "LLM in Unity"
+    excerpt: 'Use models locally in Unity.'
+    url: "/llm-set-up/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+
 feature_misc_things:
   - image_path: /assets/images/landing/landing_icon_boost_productivity_2.svg
     title: "Boost Productivity"
@@ -191,6 +200,8 @@ feature_testimonials_3:
 {% include feature_row id="feature_gemini" type="center" %}{: .fw-small-image}
 
 {% include feature_row id="feature_azure" type="center" %}{: .fw-small-image}
+
+{% include feature_row id="feature_llm" type="center" %}{: .fw-small-image}
 
 {% include feature_row id="feature_testimonials_1" type="left" %}
 
