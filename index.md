@@ -85,8 +85,8 @@ feature_azure:
 
 feature_llm:
   - image_path: /assets/images/landing/landing_icon_llm.svg
-    alt: "LLM integration"
-    title: "LLM in Unity"
+    alt: "Ollama integration"
+    title: "Ollama in Unity"
     excerpt: 'Use models locally in Unity. Will be added to the AI Toolbox in the following update.'
     url: "/llm-set-up/"
     btn_label: "Read More"
