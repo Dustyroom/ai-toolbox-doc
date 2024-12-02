@@ -87,8 +87,8 @@ feature_llm:
   - image_path: /assets/images/landing/landing_icon_llm.svg
     alt: "Ollama integration"
     title: "Ollama in Unity"
-    excerpt: 'Use models locally in Unity. Will be added to the AI Toolbox in the following update.'
-    url: "/llm-set-up/"
+    excerpt: 'Use Ollama in Unity.'
+    url: "/ollama-set-up/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 
