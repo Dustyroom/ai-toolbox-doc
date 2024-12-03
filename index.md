@@ -87,7 +87,7 @@ feature_llm:
   - image_path: /assets/images/landing/landing_icon_llm.svg
     alt: "Ollama integration"
     title: "Ollama in Unity"
-    excerpt: 'Use Ollama in Unity, locally, for free.'
+    excerpt: 'With Ollama you can run popular LLMs like Llama, Gemma, Qwen and dozens of others locally for free!'
     url: "/ollama-set-up/"
     btn_label: "Read More"
     btn_class: "btn--primary"
