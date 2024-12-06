@@ -31,7 +31,7 @@ docs:
         url: /azure-set-up/
       - title: Google Gemini
         url: /gemini-set-up/
-      - title: Ollama
+      - title: Ollama (Free)
         url: /ollama-set-up/
   - title: Runtime Usage
     children:
