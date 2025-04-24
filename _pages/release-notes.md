@@ -1,3 +1,8 @@
+---
+permalink: /release-notes/
+title: "Release Notes"
+---
+
 **2.4.0**
 Improved the Guiding Prompts. If you added this asset to your project before this update, please reset the Guiding Prompts in the Project Settings for better code generation results.
 Lots of UI and quality of life improvements: keyboard shortcuts, context menu items on components, accept/reject changes and many more!
