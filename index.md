@@ -212,6 +212,8 @@ feature_testimonials_3:
 
 {% include feature_row id="feature_llm" type="center" %}{: .fw-small-image}
 
+{% include feature_row id="feature_claude" type="center" %}{: .fw-small-image}
+
 {% include feature_row id="feature_testimonials_1" type="left" %}
 
 {% include feature_row id="feature_testimonials_2" type="right" %}
