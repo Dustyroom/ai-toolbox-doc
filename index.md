@@ -92,6 +92,16 @@ feature_llm:
     btn_label: "Read More"
     btn_class: "btn--primary"
 
+feature_claude:
+  - image_path: /assets/images/landing/claude_logo.svg
+    alt: "Claude integration"
+    title: "Claude in Unity"
+    excerpt: '"Claude provides industry-leading coding intelligence for your Unity projects."
+'
+    url: "/claude-set-up/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+
 feature_misc_things:
   - image_path: /assets/images/landing/landing_icon_boost_productivity_2.svg
     title: "Boost Productivity"
