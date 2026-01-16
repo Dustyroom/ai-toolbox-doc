@@ -93,7 +93,7 @@ feature_llm:
     btn_class: "btn--primary"
 
 feature_claude:
-  - image_path: /assets/images/landing/claude_logo.svg
+  - image_path: /assets/images/landing/claude_logo_1.svg
     alt: "Claude integration"
     title: "Claude in Unity"
     excerpt: 'Claude provides industry-leading coding intelligence for your Unity projects.'
