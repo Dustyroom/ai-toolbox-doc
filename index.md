@@ -96,8 +96,7 @@ feature_claude:
   - image_path: /assets/images/landing/claude_logo.svg
     alt: "Claude integration"
     title: "Claude in Unity"
-    excerpt: '"Claude provides industry-leading coding intelligence for your Unity projects."
-'
+    excerpt: 'Claude provides industry-leading coding intelligence for your Unity projects.'
     url: "/claude-set-up/"
     btn_label: "Read More"
     btn_class: "btn--primary"
